@@ -1,0 +1,28 @@
+{
+ "season": 11,
+ "format": {
+  "group_size": 4,
+  "advance": 2,
+  "finals": "single field, points restart at 0"
+ },
+ "starts": "the week of Nov 9",
+ "regular_season_complete": false,
+ "points": [
+  25,
+  18,
+  15,
+  12,
+  10,
+  8,
+  6,
+  4,
+  2,
+  1
+ ],
+ "points_confirmed": false,
+ "points_note": "PLACEHOLDER: F1-style table carried over from testing. The real Season 11 points system is not confirmed yet; replace before the first race.",
+ "entries": {},
+ "groups": [],
+ "races": [],
+ "test_season": false
+}
