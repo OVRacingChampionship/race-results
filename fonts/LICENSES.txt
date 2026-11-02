@@ -1,0 +1,10 @@
+Fonts used on this site, all licensed under the SIL Open Font License 1.1 (https://openfontlicense.org).
+Self-hosted copies from Google Fonts (latin subset, woff2):
+- Kanit: https://fonts.google.com/specimen/Kanit
+- Titillium Web: https://fonts.google.com/specimen/Titillium+Web
+- Share Tech Mono: https://fonts.google.com/specimen/Share+Tech+Mono
+
+
+
+
+
