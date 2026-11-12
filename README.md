@@ -14,9 +14,9 @@ ever appears, it stays in place and is explained rather than removed.
 
 ## What's here
 
-- `index.html` — home page: Season 11 standings and race results (empty until the first race)
+- `index.html` — home page: confirmed Season 11 groups, standings and race results (standings fill in after the first race)
 - `data/results.json` — machine-readable season data the pages are built from
-- `img/` — cover photo and championship logo
+- `img/` — cover photo, championship logo, and the confirmed group-draw graphic
 - `fonts/` — self-hosted fonts (SIL Open Font License, see `fonts/LICENSES.txt`)
 
-Race pages (`races/`) are added as races are run, starting the week of Nov 9, 2026.
+The 7 groups of 4 are confirmed (28 drivers). Race pages (`races/`) are added as races are run, starting the week of Nov 9, 2026.
