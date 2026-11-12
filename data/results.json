@@ -6,6 +6,7 @@
   "finals": "single field, points restart at 0"
  },
  "starts": "the week of Nov 9",
+ "groups_confirmed": true,
  "regular_season_complete": false,
  "points": [
   25,
@@ -22,7 +23,260 @@
  "points_confirmed": false,
  "points_note": "PLACEHOLDER: F1-style table carried over from testing. The real Season 11 points system is not confirmed yet; replace before the first race.",
  "entries": {},
- "groups": [],
+ "groups": [
+  {
+   "id": "g1",
+   "name": "Group 1",
+   "members": [
+    "biometric_human",
+    "_baron_98",
+    "thefoxywolfy",
+    "velocevelocevelo"
+   ],
+   "cars": {
+    "biometric_human": [
+     "Saleen Mustang Dark Horse '09",
+     "Bristol Fighter '04",
+     "Audi RS6 DTM Stertman/Caresto '15",
+     "Tramontana R-Edition '13"
+    ],
+    "_baron_98": [
+     "Maserati GranTurismo S LE '09",
+     "Vauxhall Monaro VXR500 '06",
+     "Gemballa GTP 720 '10",
+     "Lambo Aventador Roadster '12"
+    ],
+    "thefoxywolfy": [
+     "Maserati Coupe GranSport '04",
+     "Maserati GranSport MC Victory '06",
+     "Aston Martin DB11 '16",
+     "Novitec Ferrari GTC4Lusso '16"
+    ],
+    "velocevelocevelo": [
+     "Audi TT Mk2 '06",
+     "No car",
+     "No car",
+     "No car"
+    ]
+   }
+  },
+  {
+   "id": "g2",
+   "name": "Group 2",
+   "members": [
+    "88r.",
+    "king_lambo999",
+    "daniel_350z",
+    "Hashy"
+   ],
+   "cars": {
+    "88r.": [
+     "Vauxhall Monaro VXR500 '06",
+     "Bristol Fighter '04",
+     "Exotic Rides W70 '15",
+     "Falcon F7 '12"
+    ],
+    "king_lambo999": [
+     "Saleen Mustang Dark Horse '09",
+     "Nissan 350Z Veilside '03",
+     "Ferrari 599 SA Aperta '10",
+     "Panoz Abruzzi '10"
+    ],
+    "daniel_350z": [
+     "Acura RSX '02",
+     "Bristol Fighter '04",
+     "Corvette C7 Convertible '14",
+     "Lambo Gallardo LP 550-2 Spyder '11"
+    ],
+    "Hashy": [
+     "Mustang V6 '01",
+     "Camaro V6 '01",
+     "Mustang V6 '11",
+     "Camaro V6 '12"
+    ]
+   }
+  },
+  {
+   "id": "g3",
+   "name": "Group 3",
+   "members": [
+    "chiefkeefgod",
+    "felix_08131",
+    ".arei.",
+    "2svj."
+   ],
+   "cars": {
+    "chiefkeefgod": [
+     "Vauxhall Monaro VXR500 '06",
+     "Gemballa Tornado GTS 750 '09",
+     "Hennessey Viper Venom 700R '12",
+     "Lambo Aventador LP 700-4 Pirelli Roadster '15"
+    ],
+    "felix_08131": [
+     "Maserati GranSport MC Victory '06",
+     "Vauxhall Monaro VXR500 '06",
+     "Lambo Aventador Roadster '12",
+     "Ferrari 599 SA Aperta '10"
+    ],
+    ".arei.": [
+     "Audi RS4 Avant (B7) '06",
+     "Porsche Cayenne Turbo S (955) '06",
+     "Bentley Continental GT Conv. '20",
+     "Lambo Urus '19"
+    ],
+    "2svj.": [
+     "Bristol Fighter '04",
+     "Mercedes E63 AMG (W212) '09",
+     "No car",
+     "No car"
+    ]
+   }
+  },
+  {
+   "id": "g4",
+   "name": "Group 4",
+   "members": [
+    "encore_mk1",
+    "broisnthysilens",
+    "kia_forte",
+    "pagani504"
+   ],
+   "cars": {
+    "encore_mk1": [
+     "Saleen Mustang Dark Horse '09",
+     "Bristol Fighter '04",
+     "Gemballa GTP 720 '10",
+     "Lambo Aventador Roadster '12"
+    ],
+    "broisnthysilens": [
+     "Corvette C5 Commemorative '04",
+     "Bristol Fighter '04",
+     "MNR VortX Hayabusa RT Plus '14",
+     "Lambo Aventador Roadster '12"
+    ],
+    "kia_forte": [
+     "Camaro Z/28 '01",
+     "Audi S4 Avant (B7) '05",
+     "BMW M2 CS '20",
+     "Camaro ZL1 '12"
+    ],
+    "pagani504": [
+     "Fiat Palio R '04",
+     "Dodge Ram 2500 Cummins '06",
+     "DDR Grullón GT8SS GP '11",
+     "Porsche Panamera (970) '13"
+    ]
+   }
+  },
+  {
+   "id": "g5",
+   "name": "Group 5",
+   "members": [
+    "tarafiiee",
+    "chromeme",
+    "vince_the_1st",
+    "notarashi"
+   ],
+   "cars": {
+    "tarafiiee": [
+     "Shelby GT500 KR 40th '08",
+     "Mercedes SL65 AMG (R230) '04",
+     "Lambo Aventador Roadster '12",
+     "Arash AF8 Falcon Edition '14"
+    ],
+    "chromeme": [
+     "Mercedes SLK55 AMG '04",
+     "Bristol Fighter '04",
+     "M-Tech Mercedes E63 '18",
+     "BMW M3 CS (F80) '18"
+    ],
+    "vince_the_1st": [
+     "Audi TT Roadster '03",
+     "Jaguar XKR '09",
+     "BMW M5 30 Jahre '14",
+     "Dodge Charger Hellcat Widebody Daytona 50th '20"
+    ],
+    "notarashi": [
+     "Maserati GranSport MC Victory '06",
+     "Porsche Panamera S (970) '09",
+     "Corvette C7 Convertible '14",
+     "No car"
+    ]
+   }
+  },
+  {
+   "id": "g6",
+   "name": "Group 6",
+   "members": [
+    "khalish_d",
+    "justanoobperson",
+    "vattu2223",
+    "roberthloga"
+   ],
+   "cars": {
+    "khalish_d": [
+     "Bristol Fighter '04",
+     "Porsche 911 (996) 40 Jahre '03",
+     "Hennessey Mustang GT HPE750 '15",
+     "Hennessey CTS-V V800 '10"
+    ],
+    "justanoobperson": [
+     "Mercedes SL65 AMG (R230) '04",
+     "Shelby GT500 KR 40th '08",
+     "BMW M3 CS (F80) '18",
+     "Viper SRT-10 Final Edition Conv. '10"
+    ],
+    "vattu2223": [
+     "Mercedes SL65 AMG (R230) '04",
+     "Holden Monaro CV8-Z '05",
+     "BMW 128ti '20",
+     "RTR Mustang Spec 5 10th Anniv. '20"
+    ],
+    "roberthloga": [
+     "Maserati Spyder 4200 Cambiocorsa '02",
+     "Subaru WRX Club Spec Evo 8 '04",
+     "Maserati GranCabrio \"Sand Job\" '11",
+     "Porsche Panamera S E-Hybrid '14"
+    ]
+   }
+  },
+  {
+   "id": "g7",
+   "name": "Group 7",
+   "members": [
+    "lacee5238",
+    "thatonem4",
+    "jimmykim3938",
+    "zehnx1006"
+   ],
+   "cars": {
+    "lacee5238": [
+     "Maserati GranTurismo S '09",
+     "Porsche 911 (996) 40 Jahre '03",
+     "Lambo Aventador Roadster '12",
+     "Audi RS6 DTM Stertman/Caresto '15"
+    ],
+    "thatonem4": [
+     "Shelby GT500 KR 40th '08",
+     "Corvette C5 Commemorative '04",
+     "Ferrari 599 GTB 60F1 Alonso '11",
+     "Lambo Aventador LP 700-4 Pirelli Roadster '15"
+    ],
+    "jimmykim3938": [
+     "Ram SRT-10 Commemorative '05",
+     "Honda Civic Type R FN2 '07",
+     "Saleen S1 '17",
+     "BMW X6 M '19"
+    ],
+    "zehnx1006": [
+     "Subaru Impreza WRX S '08",
+     "Proton Satria R3 '04",
+     "Porsche 911 (991) Carrera S '12",
+     "Porsche Cayman R (987) '11"
+    ]
+   }
+  }
+ ],
  "races": [],
  "test_season": false
 }
