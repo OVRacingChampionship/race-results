@@ -83,20 +83,20 @@
    "pick": 2
   },
   "tarafiiee": {
-   "name": "Shelby GT500 KR 40th '08",
-   "pick": 1
+   "name": "Mercedes SL65 AMG (R230) '04",
+   "pick": 2
   },
   "chromeme": {
-   "name": "Mercedes SLK55 AMG '04",
-   "pick": 1
+   "name": "Bristol Fighter '04",
+   "pick": 2
   },
   "vince_the_1st": {
-   "name": "Audi TT Roadster '03",
-   "pick": 1
+   "name": "Jaguar XKR '09",
+   "pick": 2
   },
   "notarashi": {
-   "name": "Maserati GranSport MC Victory '06",
-   "pick": 1
+   "name": "Porsche Panamera S (970) '09",
+   "pick": 2
   },
   "khalish_d": {
    "name": "Bristol Fighter '04",
@@ -2343,6 +2343,224 @@
     "time": "19.086",
     "lap": 5
    }
+  },
+  {
+   "title": "Group 5 · Pick 2 · Race 1: Watkins Glen",
+   "slug": "s11-g5-p2-r1-watkins-glen",
+   "date": "2026-11-13",
+   "group": "g5",
+   "race_no": 1,
+   "pick": 2,
+   "venue": "watkins_glen",
+   "image": "s11-g5-p2-r1-watkins-glen",
+   "type": "Circuit · 5 laps",
+   "weather": "Windy",
+   "seed": 68636253,
+   "track": "Watkins Glen International, USA · 5.552 km",
+   "results": [
+    {
+     "player": "tarafiiee",
+     "car": "Mercedes SL65 AMG (R230) '04",
+     "position": 1,
+     "time": "11:16.880",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "chromeme",
+     "car": "Bristol Fighter '04",
+     "position": 2,
+     "time": "11:19.021",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "vince_the_1st",
+     "car": "Jaguar XKR '09",
+     "position": 3,
+     "time": "11:36.781",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "notarashi",
+     "car": "Porsche Panamera S (970) '09",
+     "position": 4,
+     "time": "11:45.272",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "chromeme",
+    "time": "2:12.142",
+    "lap": 2
+   }
+  },
+  {
+   "title": "Group 5 · Pick 2 · Race 2: Fuji",
+   "slug": "s11-g5-p2-r2-fuji",
+   "date": "2026-11-13",
+   "group": "g5",
+   "race_no": 2,
+   "pick": 2,
+   "venue": "fuji",
+   "image": "s11-g5-p2-r2-fuji",
+   "type": "Circuit · 7 laps",
+   "weather": "Drying track",
+   "seed": 13446545,
+   "track": "Fuji Speedway, Japan · 4.563 km",
+   "results": [
+    {
+     "player": "tarafiiee",
+     "car": "Mercedes SL65 AMG (R230) '04",
+     "position": 1,
+     "time": "16:34.942",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "chromeme",
+     "car": "Bristol Fighter '04",
+     "position": 2,
+     "time": "16:41.284",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "vince_the_1st",
+     "car": "Jaguar XKR '09",
+     "position": 3,
+     "time": "16:42.992",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "notarashi",
+     "car": "Porsche Panamera S (970) '09",
+     "position": 4,
+     "time": "17:12.857",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "tarafiiee",
+    "time": "2:15.748",
+    "lap": 7
+   }
+  },
+  {
+   "title": "Group 5 · Pick 2 · Race 3: Monaco",
+   "slug": "s11-g5-p2-r3-monaco",
+   "date": "2026-11-13",
+   "group": "g5",
+   "race_no": 3,
+   "pick": 2,
+   "venue": "monaco",
+   "image": "s11-g5-p2-r3-monaco",
+   "type": "Street circuit · 9 laps",
+   "weather": "Heavy fog",
+   "seed": 28016131,
+   "track": "Circuit de Monaco, Monaco · 3.337 km",
+   "results": [
+    {
+     "player": "vince_the_1st",
+     "car": "Jaguar XKR '09",
+     "position": 1,
+     "time": "24:08.326",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "chromeme",
+     "car": "Bristol Fighter '04",
+     "position": 2,
+     "time": "24:09.608",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "notarashi",
+     "car": "Porsche Panamera S (970) '09",
+     "position": 3,
+     "time": "25:07.697",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "tarafiiee",
+     "car": "Mercedes SL65 AMG (R230) '04",
+     "position": 4,
+     "time": "25:21.221",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "chromeme",
+    "time": "2:35.410",
+    "lap": 5
+   }
+  },
+  {
+   "title": "Group 5 · Pick 2 · Race 4: Daytona",
+   "slug": "s11-g5-p2-r4-daytona",
+   "date": "2026-11-13",
+   "group": "g5",
+   "race_no": 4,
+   "pick": 2,
+   "venue": "daytona",
+   "image": "s11-g5-p2-r4-daytona",
+   "type": "Oval · 10 laps",
+   "weather": "Extreme heat",
+   "seed": 47683343,
+   "track": "Daytona International Speedway, USA · 4.023 km",
+   "results": [
+    {
+     "player": "chromeme",
+     "car": "Bristol Fighter '04",
+     "position": 1,
+     "time": "8:19.682",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "notarashi",
+     "car": "Porsche Panamera S (970) '09",
+     "position": 2,
+     "time": "9:06.565",
+     "dnf": false,
+     "points": 8,
+     "laps": 9,
+     "gap": "+1 lap"
+    },
+    {
+     "player": "vince_the_1st",
+     "car": "Jaguar XKR '09",
+     "position": 3,
+     "time": "8:55.710",
+     "dnf": false,
+     "points": 6,
+     "laps": 8,
+     "gap": "+2 laps"
+    },
+    {
+     "player": "tarafiiee",
+     "car": "Mercedes SL65 AMG (R230) '04",
+     "position": 4,
+     "time": "8:57.756",
+     "dnf": false,
+     "points": 4,
+     "laps": 8,
+     "gap": "+2 laps"
+    }
+   ],
+   "fastest_lap": {
+    "player": "chromeme",
+    "time": "48.854",
+    "lap": 7
+   }
   }
  ],
  "test_season": false,
@@ -2531,6 +2749,22 @@
    },
    "pagani504": {
     "name": "Dodge Ram 2500 Cummins '06",
+    "pick": 2
+   },
+   "tarafiiee": {
+    "name": "Mercedes SL65 AMG (R230) '04",
+    "pick": 2
+   },
+   "chromeme": {
+    "name": "Bristol Fighter '04",
+    "pick": 2
+   },
+   "vince_the_1st": {
+    "name": "Jaguar XKR '09",
+    "pick": 2
+   },
+   "notarashi": {
+    "name": "Porsche Panamera S (970) '09",
     "pick": 2
    }
   }
