@@ -35,20 +35,20 @@
    "note": "No Pick 2 car (DNS)"
   },
   "88r.": {
-   "name": "Vauxhall Monaro VXR500 '06",
-   "pick": 1
+   "name": "Bristol Fighter '04",
+   "pick": 2
   },
   "king_lambo999": {
-   "name": "Saleen Mustang Dark Horse '09",
-   "pick": 1
+   "name": "Nissan 350Z Veilside '03",
+   "pick": 2
   },
   "daniel_350z": {
-   "name": "Acura RSX '02",
-   "pick": 1
+   "name": "Bristol Fighter '04",
+   "pick": 2
   },
   "Hashy": {
-   "name": "Mustang V6 '01",
-   "pick": 1
+   "name": "Camaro V6 '01",
+   "pick": 2
   },
   "chiefkeefgod": {
    "name": "Vauxhall Monaro VXR500 '06",
@@ -1039,6 +1039,224 @@
     "time": "2:20.479",
     "lap": 2
    }
+  },
+  {
+   "title": "Group 2 · Pick 2 · Race 1: Laguna Seca",
+   "slug": "s11-g2-p2-r1-laguna-seca",
+   "date": "2026-11-12",
+   "group": "g2",
+   "race_no": 1,
+   "pick": 2,
+   "venue": "laguna_seca",
+   "image": "s11-g2-p2-r1-laguna-seca",
+   "type": "Circuit · 8 laps",
+   "weather": "Heavy blizzard",
+   "seed": 36350343,
+   "track": "WeatherTech Raceway Laguna Seca, USA · 3.602 km",
+   "results": [
+    {
+     "player": "daniel_350z",
+     "car": "Bristol Fighter '04",
+     "position": 1,
+     "time": "25:34.490",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "88r.",
+     "car": "Bristol Fighter '04",
+     "position": 2,
+     "time": "26:42.139",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "king_lambo999",
+     "car": "Nissan 350Z Veilside '03",
+     "position": 3,
+     "time": "25:44.157",
+     "dnf": false,
+     "points": 6,
+     "laps": 7,
+     "gap": "+1 lap"
+    },
+    {
+     "player": "Hashy",
+     "car": "Camaro V6 '01",
+     "position": 4,
+     "time": "26:37.239",
+     "dnf": false,
+     "points": 4,
+     "laps": 7,
+     "gap": "+1 lap"
+    }
+   ],
+   "fastest_lap": {
+    "player": "daniel_350z",
+    "time": "2:14.766",
+    "lap": 7
+   }
+  },
+  {
+   "title": "Group 2 · Pick 2 · Race 2: Spa",
+   "slug": "s11-g2-p2-r2-spa",
+   "date": "2026-11-12",
+   "group": "g2",
+   "race_no": 2,
+   "pick": 2,
+   "venue": "spa",
+   "image": "s11-g2-p2-r2-spa",
+   "type": "Circuit · 4 laps",
+   "weather": "Hot",
+   "seed": 67641408,
+   "track": "Circuit de Spa-Francorchamps, Belgium · 7.004 km",
+   "results": [
+    {
+     "player": "88r.",
+     "car": "Bristol Fighter '04",
+     "position": 1,
+     "time": "12:04.730",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "daniel_350z",
+     "car": "Bristol Fighter '04",
+     "position": 2,
+     "time": "12:11.506",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "king_lambo999",
+     "car": "Nissan 350Z Veilside '03",
+     "position": 3,
+     "time": "13:31.452",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "Hashy",
+     "car": "Camaro V6 '01",
+     "position": 4,
+     "time": "14:23.850",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "88r.",
+    "time": "2:55.529",
+    "lap": 4
+   }
+  },
+  {
+   "title": "Group 2 · Pick 2 · Race 3: Sebring",
+   "slug": "s11-g2-p2-r3-sebring",
+   "date": "2026-11-12",
+   "group": "g2",
+   "race_no": 3,
+   "pick": 2,
+   "venue": "sebring",
+   "image": "s11-g2-p2-r3-sebring",
+   "type": "Circuit · 5 laps",
+   "weather": "Heavy rain",
+   "seed": 15097982,
+   "track": "Sebring International Raceway, USA · 6.019 km",
+   "results": [
+    {
+     "player": "88r.",
+     "car": "Bristol Fighter '04",
+     "position": 1,
+     "time": "16:55.125",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "daniel_350z",
+     "car": "Bristol Fighter '04",
+     "position": 2,
+     "time": "17:38.277",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "king_lambo999",
+     "car": "Nissan 350Z Veilside '03",
+     "position": 3,
+     "time": "19:02.390",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "Hashy",
+     "car": "Camaro V6 '01",
+     "position": 4,
+     "time": "19:33.912",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "88r.",
+    "time": "3:19.513",
+    "lap": 4
+   }
+  },
+  {
+   "title": "Group 2 · Pick 2 · Race 4: Monaco",
+   "slug": "s11-g2-p2-r4-monaco",
+   "date": "2026-11-12",
+   "group": "g2",
+   "race_no": 4,
+   "pick": 2,
+   "venue": "monaco",
+   "image": "s11-g2-p2-r4-monaco",
+   "type": "Street circuit · 9 laps",
+   "weather": "Category 5 hurricane",
+   "seed": 98283070,
+   "track": "Circuit de Monaco, Monaco · 3.337 km",
+   "results": [
+    {
+     "player": "88r.",
+     "car": "Bristol Fighter '04",
+     "position": 1,
+     "time": "60:19.830",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "daniel_350z",
+     "car": "Bristol Fighter '04",
+     "position": 2,
+     "time": "61:02.900",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "Hashy",
+     "car": "Camaro V6 '01",
+     "position": 3,
+     "time": "65:52.726",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "king_lambo999",
+     "car": "Nissan 350Z Veilside '03",
+     "position": null,
+     "time": "DNF",
+     "dnf": true,
+     "points": 0,
+     "dnf_reason": "crashed into the Armco at the Swimming Pool, broken front suspension",
+     "dnf_lap": 6
+    }
+   ],
+   "fastest_lap": {
+    "player": "88r.",
+    "time": "6:29.926",
+    "lap": 9
+   }
   }
  ],
  "test_season": false,
@@ -1180,6 +1398,22 @@
     "name": "No car",
     "pick": 2,
     "dns": true
+   },
+   "88r.": {
+    "name": "Bristol Fighter '04",
+    "pick": 2
+   },
+   "king_lambo999": {
+    "name": "Nissan 350Z Veilside '03",
+    "pick": 2
+   },
+   "daniel_350z": {
+    "name": "Bristol Fighter '04",
+    "pick": 2
+   },
+   "Hashy": {
+    "name": "Camaro V6 '01",
+    "pick": 2
    }
   }
  }
