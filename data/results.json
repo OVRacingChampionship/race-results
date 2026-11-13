@@ -18,20 +18,21 @@
  "points_note": "Group rounds: 1st 10, 2nd 8, 3rd 6, 4th 4. A DNF scores 0.",
  "entries": {
   "biometric_human": {
-   "name": "Saleen Mustang Dark Horse '09",
-   "pick": 1
+   "name": "Bristol Fighter '04",
+   "pick": 2
   },
   "_baron_98": {
-   "name": "Maserati GranTurismo S LE '09",
-   "pick": 1
+   "name": "Vauxhall Monaro VXR500 '06",
+   "pick": 2
   },
   "thefoxywolfy": {
-   "name": "Maserati Coupe GranSport '04",
-   "pick": 1
+   "name": "Maserati GranSport MC Victory '06",
+   "pick": 2
   },
   "velocevelocevelo": {
    "name": "Audi TT Mk2 '06",
-   "pick": 1
+   "pick": 1,
+   "note": "No Pick 2 car (DNS)"
   },
   "88r.": {
    "name": "Vauxhall Monaro VXR500 '06",
@@ -598,6 +599,226 @@
     "time": "2:27.254",
     "lap": 5
    }
+  },
+  {
+   "title": "Group 1 · Pick 2 · Race 1: Laguna Seca",
+   "slug": "s11-g1-p2-r1-laguna-seca",
+   "date": "2026-11-12",
+   "group": "g1",
+   "race_no": 1,
+   "pick": 2,
+   "venue": "laguna_seca",
+   "image": "s11-g1-p2-r1-laguna-seca",
+   "type": "Circuit · 8 laps",
+   "weather": "Windy",
+   "seed": 82952750,
+   "track": "WeatherTech Raceway Laguna Seca, USA · 3.602 km",
+   "results": [
+    {
+     "player": "biometric_human",
+     "car": "Bristol Fighter '04",
+     "position": 1,
+     "time": "14:59.298",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "thefoxywolfy",
+     "car": "Maserati GranSport MC Victory '06",
+     "position": 2,
+     "time": "15:09.582",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "_baron_98",
+     "car": "Vauxhall Monaro VXR500 '06",
+     "position": 3,
+     "time": "15:09.745",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "velocevelocevelo",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 2 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "biometric_human",
+    "time": "1:49.455",
+    "lap": 4
+   }
+  },
+  {
+   "title": "Group 1 · Pick 2 · Race 2: Long Beach",
+   "slug": "s11-g1-p2-r2-long-beach",
+   "date": "2026-11-12",
+   "group": "g1",
+   "race_no": 2,
+   "pick": 2,
+   "venue": "long_beach",
+   "image": "s11-g1-p2-r2-long-beach",
+   "type": "Street circuit · 9 laps",
+   "weather": "Clear and dry",
+   "seed": 24388412,
+   "track": "Long Beach Street Circuit, USA · 3.167 km",
+   "results": [
+    {
+     "player": "biometric_human",
+     "car": "Bristol Fighter '04",
+     "position": 1,
+     "time": "16:00.043",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "_baron_98",
+     "car": "Vauxhall Monaro VXR500 '06",
+     "position": 2,
+     "time": "16:22.302",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "thefoxywolfy",
+     "car": "Maserati GranSport MC Victory '06",
+     "position": 3,
+     "time": "16:50.162",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "velocevelocevelo",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 2 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "biometric_human",
+    "time": "1:44.401",
+    "lap": 5
+   }
+  },
+  {
+   "title": "Group 1 · Pick 2 · Race 3: Sebring",
+   "slug": "s11-g1-p2-r3-sebring",
+   "date": "2026-11-12",
+   "group": "g1",
+   "race_no": 3,
+   "pick": 2,
+   "venue": "sebring",
+   "image": "s11-g1-p2-r3-sebring",
+   "type": "Circuit · 5 laps",
+   "weather": "Clear and dry",
+   "seed": 96473677,
+   "track": "Sebring International Raceway, USA · 6.019 km",
+   "results": [
+    {
+     "player": "_baron_98",
+     "car": "Vauxhall Monaro VXR500 '06",
+     "position": 1,
+     "time": "13:52.712",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "biometric_human",
+     "car": "Bristol Fighter '04",
+     "position": 2,
+     "time": "13:53.857",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "thefoxywolfy",
+     "car": "Maserati GranSport MC Victory '06",
+     "position": 3,
+     "time": "14:39.044",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "velocevelocevelo",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 2 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "biometric_human",
+    "time": "2:43.084",
+    "lap": 4
+   }
+  },
+  {
+   "title": "Group 1 · Pick 2 · Race 4: Interlagos",
+   "slug": "s11-g1-p2-r4-interlagos",
+   "date": "2026-11-12",
+   "group": "g1",
+   "race_no": 4,
+   "pick": 2,
+   "venue": "interlagos",
+   "image": "s11-g1-p2-r4-interlagos",
+   "type": "Circuit · 7 laps",
+   "weather": "Drizzle",
+   "seed": 16732803,
+   "track": "Autódromo José Carlos Pace (Interlagos), Brazil · 4.309 km",
+   "results": [
+    {
+     "player": "biometric_human",
+     "car": "Bristol Fighter '04",
+     "position": 1,
+     "time": "15:43.495",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "_baron_98",
+     "car": "Vauxhall Monaro VXR500 '06",
+     "position": 2,
+     "time": "15:50.334",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "thefoxywolfy",
+     "car": "Maserati GranSport MC Victory '06",
+     "position": 3,
+     "time": "16:43.408",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "velocevelocevelo",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 2 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "biometric_human",
+    "time": "2:09.770",
+    "lap": 2
+   }
   }
  ],
  "test_season": false,
@@ -605,5 +826,141 @@
   "points",
   "most race wins",
   "single 1v1 elimination race between the tied drivers"
- ]
+ ],
+ "dns_rule": "A player with no car for a pick does not start that pick's races: DNS, 0 pts (confirmed by John).",
+ "entries_by_pick": {
+  "1": {
+   "biometric_human": {
+    "name": "Saleen Mustang Dark Horse '09",
+    "pick": 1
+   },
+   "_baron_98": {
+    "name": "Maserati GranTurismo S LE '09",
+    "pick": 1
+   },
+   "thefoxywolfy": {
+    "name": "Maserati Coupe GranSport '04",
+    "pick": 1
+   },
+   "velocevelocevelo": {
+    "name": "Audi TT Mk2 '06",
+    "pick": 1
+   },
+   "88r.": {
+    "name": "Vauxhall Monaro VXR500 '06",
+    "pick": 1
+   },
+   "king_lambo999": {
+    "name": "Saleen Mustang Dark Horse '09",
+    "pick": 1
+   },
+   "daniel_350z": {
+    "name": "Acura RSX '02",
+    "pick": 1
+   },
+   "Hashy": {
+    "name": "Mustang V6 '01",
+    "pick": 1
+   },
+   "chiefkeefgod": {
+    "name": "Vauxhall Monaro VXR500 '06",
+    "pick": 1
+   },
+   "felix_08131": {
+    "name": "Maserati GranSport MC Victory '06",
+    "pick": 1
+   },
+   ".arei.": {
+    "name": "Audi RS4 Avant (B7) '06",
+    "pick": 1
+   },
+   "2svj.": {
+    "name": "Bristol Fighter '04",
+    "pick": 1
+   },
+   "encore_mk1": {
+    "name": "Saleen Mustang Dark Horse '09",
+    "pick": 1
+   },
+   "broisnthysilens": {
+    "name": "Corvette C5 Commemorative '04",
+    "pick": 1
+   },
+   "kia_forte": {
+    "name": "Camaro Z/28 '01",
+    "pick": 1
+   },
+   "pagani504": {
+    "name": "Fiat Palio R '04",
+    "pick": 1
+   },
+   "tarafiiee": {
+    "name": "Shelby GT500 KR 40th '08",
+    "pick": 1
+   },
+   "chromeme": {
+    "name": "Mercedes SLK55 AMG '04",
+    "pick": 1
+   },
+   "vince_the_1st": {
+    "name": "Audi TT Roadster '03",
+    "pick": 1
+   },
+   "notarashi": {
+    "name": "Maserati GranSport MC Victory '06",
+    "pick": 1
+   },
+   "khalish_d": {
+    "name": "Bristol Fighter '04",
+    "pick": 1
+   },
+   "justanoobperson": {
+    "name": "Mercedes SL65 AMG (R230) '04",
+    "pick": 1
+   },
+   "vattu2223": {
+    "name": "Mercedes SL65 AMG (R230) '04",
+    "pick": 1
+   },
+   "roberthloga": {
+    "name": "Maserati Spyder 4200 Cambiocorsa '02",
+    "pick": 1
+   },
+   "lacee5238": {
+    "name": "Maserati GranTurismo S '09",
+    "pick": 1
+   },
+   "thatonem4": {
+    "name": "Shelby GT500 KR 40th '08",
+    "pick": 1
+   },
+   "jimmykim3938": {
+    "name": "Ram SRT-10 Commemorative '05",
+    "pick": 1
+   },
+   "zehnx1006": {
+    "name": "Subaru Impreza WRX S '08",
+    "pick": 1
+   }
+  },
+  "2": {
+   "biometric_human": {
+    "name": "Bristol Fighter '04",
+    "pick": 2
+   },
+   "_baron_98": {
+    "name": "Vauxhall Monaro VXR500 '06",
+    "pick": 2
+   },
+   "thefoxywolfy": {
+    "name": "Maserati GranSport MC Victory '06",
+    "pick": 2
+   },
+   "velocevelocevelo": {
+    "name": "No car",
+    "pick": 2,
+    "dns": true
+   }
+  }
+ }
 }
