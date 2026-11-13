@@ -99,20 +99,20 @@
    "pick": 2
   },
   "khalish_d": {
-   "name": "Bristol Fighter '04",
-   "pick": 1
+   "name": "Porsche 911 (996) 40 Jahre '03",
+   "pick": 2
   },
   "justanoobperson": {
-   "name": "Mercedes SL65 AMG (R230) '04",
-   "pick": 1
+   "name": "Shelby GT500 KR 40th '08",
+   "pick": 2
   },
   "vattu2223": {
-   "name": "Mercedes SL65 AMG (R230) '04",
-   "pick": 1
+   "name": "Holden Monaro CV8-Z '05",
+   "pick": 2
   },
   "roberthloga": {
-   "name": "Maserati Spyder 4200 Cambiocorsa '02",
-   "pick": 1
+   "name": "Subaru WRX Club Spec Evo 8 '04",
+   "pick": 2
   },
   "lacee5238": {
    "name": "Maserati GranTurismo S '09",
@@ -2777,6 +2777,226 @@
     "time": "2:47.434",
     "lap": 5
    }
+  },
+  {
+   "title": "Group 6 · Pick 2 · Race 1: Suzuka",
+   "slug": "s11-g6-p2-r1-suzuka",
+   "date": "2026-11-13",
+   "group": "g6",
+   "race_no": 1,
+   "pick": 2,
+   "venue": "suzuka",
+   "image": "s11-g6-p2-r1-suzuka",
+   "type": "Circuit · 5 laps",
+   "weather": "Overcast",
+   "seed": 6667573,
+   "track": "Suzuka International Racing Course, Japan · 5.807 km",
+   "results": [
+    {
+     "player": "justanoobperson",
+     "car": "Shelby GT500 KR 40th '08",
+     "position": 1,
+     "time": "13:30.131",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "vattu2223",
+     "car": "Holden Monaro CV8-Z '05",
+     "position": 2,
+     "time": "15:08.544",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "roberthloga",
+     "car": "Subaru WRX Club Spec Evo 8 '04",
+     "position": 3,
+     "time": "15:55.563",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "khalish_d",
+     "car": "Porsche 911 (996) 40 Jahre '03",
+     "position": null,
+     "time": "DNF",
+     "dnf": true,
+     "points": 0,
+     "dnf_reason": "driveshaft failure, a rear driveshaft CV joint broke",
+     "dnf_lap": 3
+    }
+   ],
+   "fastest_lap": {
+    "player": "justanoobperson",
+    "time": "2:33.094",
+    "lap": 3
+   }
+  },
+  {
+   "title": "Group 6 · Pick 2 · Race 2: Daytona",
+   "slug": "s11-g6-p2-r2-daytona",
+   "date": "2026-11-13",
+   "group": "g6",
+   "race_no": 2,
+   "pick": 2,
+   "venue": "daytona",
+   "image": "s11-g6-p2-r2-daytona",
+   "type": "Oval · 10 laps",
+   "weather": "Hot",
+   "seed": 47818409,
+   "track": "Daytona International Speedway, USA · 4.023 km",
+   "results": [
+    {
+     "player": "khalish_d",
+     "car": "Porsche 911 (996) 40 Jahre '03",
+     "position": 1,
+     "time": "9:12.621",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "justanoobperson",
+     "car": "Shelby GT500 KR 40th '08",
+     "position": 2,
+     "time": "9:31.930",
+     "dnf": false,
+     "points": 8,
+     "laps": 9,
+     "gap": "+1 lap"
+    },
+    {
+     "player": "vattu2223",
+     "car": "Holden Monaro CV8-Z '05",
+     "position": 3,
+     "time": "9:40.369",
+     "dnf": false,
+     "points": 6,
+     "laps": 9,
+     "gap": "+1 lap"
+    },
+    {
+     "player": "roberthloga",
+     "car": "Subaru WRX Club Spec Evo 8 '04",
+     "position": null,
+     "time": "DNF",
+     "dnf": true,
+     "points": 0,
+     "dnf_reason": "gearbox failure, the five-speed manual stripped fifth gear",
+     "dnf_lap": 10
+    }
+   ],
+   "fastest_lap": {
+    "player": "khalish_d",
+    "time": "53.068",
+    "lap": 10
+   }
+  },
+  {
+   "title": "Group 6 · Pick 2 · Race 3: VIR",
+   "slug": "s11-g6-p2-r3-vir",
+   "date": "2026-11-13",
+   "group": "g6",
+   "race_no": 3,
+   "pick": 2,
+   "venue": "vir_grand",
+   "image": "s11-g6-p2-r3-vir",
+   "type": "Circuit · 5 laps",
+   "weather": "Extreme heat",
+   "seed": 46150347,
+   "track": "Virginia International Raceway, Grand Course, USA · 6.598 km",
+   "results": [
+    {
+     "player": "justanoobperson",
+     "car": "Shelby GT500 KR 40th '08",
+     "position": 1,
+     "time": "16:02.354",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "khalish_d",
+     "car": "Porsche 911 (996) 40 Jahre '03",
+     "position": 2,
+     "time": "16:53.849",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "vattu2223",
+     "car": "Holden Monaro CV8-Z '05",
+     "position": 3,
+     "time": "17:28.213",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "roberthloga",
+     "car": "Subaru WRX Club Spec Evo 8 '04",
+     "position": 4,
+     "time": "18:52.076",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "justanoobperson",
+    "time": "3:05.917",
+    "lap": 5
+   }
+  },
+  {
+   "title": "Group 6 · Pick 2 · Race 4: Baku",
+   "slug": "s11-g6-p2-r4-baku",
+   "date": "2026-11-13",
+   "group": "g6",
+   "race_no": 4,
+   "pick": 2,
+   "venue": "baku",
+   "image": "s11-g6-p2-r4-baku",
+   "type": "Street circuit · 5 laps",
+   "weather": "Clear and dry",
+   "seed": 2969786,
+   "track": "Baku City Circuit, Azerbaijan · 6.003 km",
+   "results": [
+    {
+     "player": "justanoobperson",
+     "car": "Shelby GT500 KR 40th '08",
+     "position": 1,
+     "time": "14:59.192",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "khalish_d",
+     "car": "Porsche 911 (996) 40 Jahre '03",
+     "position": 2,
+     "time": "16:11.647",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "vattu2223",
+     "car": "Holden Monaro CV8-Z '05",
+     "position": 3,
+     "time": "16:21.955",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "roberthloga",
+     "car": "Subaru WRX Club Spec Evo 8 '04",
+     "position": 4,
+     "time": "17:30.927",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "justanoobperson",
+    "time": "2:56.186",
+    "lap": 4
+   }
   }
  ],
  "test_season": false,
@@ -2981,6 +3201,22 @@
    },
    "notarashi": {
     "name": "Porsche Panamera S (970) '09",
+    "pick": 2
+   },
+   "khalish_d": {
+    "name": "Porsche 911 (996) 40 Jahre '03",
+    "pick": 2
+   },
+   "justanoobperson": {
+    "name": "Shelby GT500 KR 40th '08",
+    "pick": 2
+   },
+   "vattu2223": {
+    "name": "Holden Monaro CV8-Z '05",
+    "pick": 2
+   },
+   "roberthloga": {
+    "name": "Subaru WRX Club Spec Evo 8 '04",
     "pick": 2
    }
   }
