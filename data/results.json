@@ -67,20 +67,20 @@
    "pick": 2
   },
   "encore_mk1": {
-   "name": "Saleen Mustang Dark Horse '09",
-   "pick": 1
+   "name": "Bristol Fighter '04",
+   "pick": 2
   },
   "broisnthysilens": {
-   "name": "Corvette C5 Commemorative '04",
-   "pick": 1
+   "name": "Bristol Fighter '04",
+   "pick": 2
   },
   "kia_forte": {
-   "name": "Camaro Z/28 '01",
-   "pick": 1
+   "name": "Audi S4 Avant (B7) '05",
+   "pick": 2
   },
   "pagani504": {
-   "name": "Fiat Palio R '04",
-   "pick": 1
+   "name": "Dodge Ram 2500 Cummins '06",
+   "pick": 2
   },
   "tarafiiee": {
    "name": "Shelby GT500 KR 40th '08",
@@ -1903,6 +1903,228 @@
     "time": "2:38.745",
     "lap": 3
    }
+  },
+  {
+   "title": "Group 4 · Pick 2 · Race 1: Talladega",
+   "slug": "s11-g4-p2-r1-talladega",
+   "date": "2026-11-13",
+   "group": "g4",
+   "race_no": 1,
+   "pick": 2,
+   "venue": "talladega",
+   "image": "s11-g4-p2-r1-talladega",
+   "type": "Oval · 9 laps",
+   "weather": "Overcast",
+   "seed": 31785719,
+   "track": "Talladega Superspeedway, USA · 4.281 km",
+   "results": [
+    {
+     "player": "broisnthysilens",
+     "car": "Bristol Fighter '04",
+     "position": 1,
+     "time": "7:27.261",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "encore_mk1",
+     "car": "Bristol Fighter '04",
+     "position": 2,
+     "time": "7:38.020",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "kia_forte",
+     "car": "Audi S4 Avant (B7) '05",
+     "position": 3,
+     "time": "7:58.585",
+     "dnf": false,
+     "points": 6,
+     "laps": 7,
+     "gap": "+2 laps"
+    },
+    {
+     "player": "pagani504",
+     "car": "Dodge Ram 2500 Cummins '06",
+     "position": 4,
+     "time": "8:41.784",
+     "dnf": false,
+     "points": 4,
+     "laps": 5,
+     "gap": "+4 laps"
+    }
+   ],
+   "fastest_lap": {
+    "player": "broisnthysilens",
+    "time": "48.390",
+    "lap": 8
+   }
+  },
+  {
+   "title": "Group 4 · Pick 2 · Race 2: Monaco",
+   "slug": "s11-g4-p2-r2-monaco",
+   "date": "2026-11-13",
+   "group": "g4",
+   "race_no": 2,
+   "pick": 2,
+   "venue": "monaco",
+   "image": "s11-g4-p2-r2-monaco",
+   "type": "Street circuit · 9 laps",
+   "weather": "Clear and dry",
+   "seed": 12160603,
+   "track": "Circuit de Monaco, Monaco · 3.337 km",
+   "results": [
+    {
+     "player": "encore_mk1",
+     "car": "Bristol Fighter '04",
+     "position": 1,
+     "time": "19:06.394",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "broisnthysilens",
+     "car": "Bristol Fighter '04",
+     "position": 2,
+     "time": "19:20.046",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "kia_forte",
+     "car": "Audi S4 Avant (B7) '05",
+     "position": 3,
+     "time": "20:14.119",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "pagani504",
+     "car": "Dodge Ram 2500 Cummins '06",
+     "position": 4,
+     "time": "21:10.728",
+     "dnf": false,
+     "points": 4,
+     "laps": 8,
+     "gap": "+1 lap"
+    }
+   ],
+   "fastest_lap": {
+    "player": "encore_mk1",
+    "time": "2:04.209",
+    "lap": 3
+   }
+  },
+  {
+   "title": "Group 4 · Pick 2 · Race 3: Suzuka",
+   "slug": "s11-g4-p2-r3-suzuka",
+   "date": "2026-11-13",
+   "group": "g4",
+   "race_no": 3,
+   "pick": 2,
+   "venue": "suzuka",
+   "image": "s11-g4-p2-r3-suzuka",
+   "type": "Circuit · 5 laps",
+   "weather": "Hot",
+   "seed": 8874001,
+   "track": "Suzuka International Racing Course, Japan · 5.807 km",
+   "results": [
+    {
+     "player": "broisnthysilens",
+     "car": "Bristol Fighter '04",
+     "position": 1,
+     "time": "13:12.100",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "encore_mk1",
+     "car": "Bristol Fighter '04",
+     "position": 2,
+     "time": "13:40.120",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "kia_forte",
+     "car": "Audi S4 Avant (B7) '05",
+     "position": 3,
+     "time": "14:25.859",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "pagani504",
+     "car": "Dodge Ram 2500 Cummins '06",
+     "position": 4,
+     "time": "13:58.849",
+     "dnf": false,
+     "points": 4,
+     "laps": 4,
+     "gap": "+1 lap"
+    }
+   ],
+   "fastest_lap": {
+    "player": "broisnthysilens",
+    "time": "2:33.637",
+    "lap": 4
+   }
+  },
+  {
+   "title": "Group 4 · Pick 2 · Race 4: Watkins Glen",
+   "slug": "s11-g4-p2-r4-watkins-glen",
+   "date": "2026-11-13",
+   "group": "g4",
+   "race_no": 4,
+   "pick": 2,
+   "venue": "watkins_glen",
+   "image": "s11-g4-p2-r4-watkins-glen",
+   "type": "Circuit · 5 laps",
+   "weather": "Drying track",
+   "seed": 10152450,
+   "track": "Watkins Glen International, USA · 5.552 km",
+   "results": [
+    {
+     "player": "encore_mk1",
+     "car": "Bristol Fighter '04",
+     "position": 1,
+     "time": "11:33.203",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "broisnthysilens",
+     "car": "Bristol Fighter '04",
+     "position": 2,
+     "time": "11:35.286",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "kia_forte",
+     "car": "Audi S4 Avant (B7) '05",
+     "position": 3,
+     "time": "12:25.286",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "pagani504",
+     "car": "Dodge Ram 2500 Cummins '06",
+     "position": 4,
+     "time": "12:06.429",
+     "dnf": false,
+     "points": 4,
+     "laps": 4,
+     "gap": "+1 lap"
+    }
+   ],
+   "fastest_lap": {
+    "player": "encore_mk1",
+    "time": "2:09.999",
+    "lap": 5
+   }
   }
  ],
  "test_season": false,
@@ -2075,6 +2297,22 @@
    },
    "2svj.": {
     "name": "Mercedes E63 AMG (W212) '09",
+    "pick": 2
+   },
+   "encore_mk1": {
+    "name": "Bristol Fighter '04",
+    "pick": 2
+   },
+   "broisnthysilens": {
+    "name": "Bristol Fighter '04",
+    "pick": 2
+   },
+   "kia_forte": {
+    "name": "Audi S4 Avant (B7) '05",
+    "pick": 2
+   },
+   "pagani504": {
+    "name": "Dodge Ram 2500 Cummins '06",
     "pick": 2
    }
   }
