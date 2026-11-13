@@ -819,6 +819,226 @@
     "time": "2:09.770",
     "lap": 2
    }
+  },
+  {
+   "title": "Group 2 · Pick 1 · Race 1: Silverstone",
+   "slug": "s11-g2-p1-r1-silverstone",
+   "date": "2026-11-12",
+   "group": "g2",
+   "race_no": 1,
+   "pick": 1,
+   "venue": "silverstone",
+   "image": "s11-g2-p1-r1-silverstone",
+   "type": "Circuit · 5 laps",
+   "weather": "Clear and dry",
+   "seed": 62412222,
+   "track": "Silverstone Circuit, UK · 5.891 km",
+   "results": [
+    {
+     "player": "king_lambo999",
+     "car": "Saleen Mustang Dark Horse '09",
+     "position": 1,
+     "time": "12:19.450",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "88r.",
+     "car": "Vauxhall Monaro VXR500 '06",
+     "position": 2,
+     "time": "13:10.040",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "Hashy",
+     "car": "Mustang V6 '01",
+     "position": 3,
+     "time": "14:25.557",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "daniel_350z",
+     "car": "Acura RSX '02",
+     "position": 4,
+     "time": "14:45.608",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "king_lambo999",
+    "time": "2:22.710",
+    "lap": 2
+   }
+  },
+  {
+   "title": "Group 2 · Pick 1 · Race 2: Fuji",
+   "slug": "s11-g2-p1-r2-fuji",
+   "date": "2026-11-12",
+   "group": "g2",
+   "race_no": 2,
+   "pick": 1,
+   "venue": "fuji",
+   "image": "s11-g2-p1-r2-fuji",
+   "type": "Circuit · 7 laps",
+   "weather": "Hot",
+   "seed": 74696494,
+   "track": "Fuji Speedway, Japan · 4.563 km",
+   "results": [
+    {
+     "player": "king_lambo999",
+     "car": "Saleen Mustang Dark Horse '09",
+     "position": 1,
+     "time": "15:24.861",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "88r.",
+     "car": "Vauxhall Monaro VXR500 '06",
+     "position": 2,
+     "time": "16:37.931",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "daniel_350z",
+     "car": "Acura RSX '02",
+     "position": 3,
+     "time": "15:56.302",
+     "dnf": false,
+     "points": 6,
+     "laps": 6,
+     "gap": "+1 lap"
+    },
+    {
+     "player": "Hashy",
+     "car": "Mustang V6 '01",
+     "position": 4,
+     "time": "16:10.554",
+     "dnf": false,
+     "points": 4,
+     "laps": 6,
+     "gap": "+1 lap"
+    }
+   ],
+   "fastest_lap": {
+    "player": "king_lambo999",
+    "time": "2:08.731",
+    "lap": 7
+   }
+  },
+  {
+   "title": "Group 2 · Pick 1 · Race 3: Macau",
+   "slug": "s11-g2-p1-r3-macau",
+   "date": "2026-11-12",
+   "group": "g2",
+   "race_no": 3,
+   "pick": 1,
+   "venue": "macau",
+   "image": "s11-g2-p1-r3-macau",
+   "type": "Street circuit · 5 laps",
+   "weather": "Clear and dry",
+   "seed": 76949859,
+   "track": "Guia Circuit, Macau · 6.120 km",
+   "results": [
+    {
+     "player": "king_lambo999",
+     "car": "Saleen Mustang Dark Horse '09",
+     "position": 1,
+     "time": "13:44.624",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "88r.",
+     "car": "Vauxhall Monaro VXR500 '06",
+     "position": 2,
+     "time": "14:14.507",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "daniel_350z",
+     "car": "Acura RSX '02",
+     "position": 3,
+     "time": "16:51.720",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "Hashy",
+     "car": "Mustang V6 '01",
+     "position": null,
+     "time": "DNF",
+     "dnf": true,
+     "points": 0,
+     "dnf_reason": "clipped the barrier at the Melco hairpin, broken left-front steering arm",
+     "dnf_lap": 3
+    }
+   ],
+   "fastest_lap": {
+    "player": "king_lambo999",
+    "time": "2:43.092",
+    "lap": 4
+   }
+  },
+  {
+   "title": "Group 2 · Pick 1 · Race 4: Watkins Glen",
+   "slug": "s11-g2-p1-r4-watkins-glen",
+   "date": "2026-11-12",
+   "group": "g2",
+   "race_no": 4,
+   "pick": 1,
+   "venue": "watkins_glen",
+   "image": "s11-g2-p1-r4-watkins-glen",
+   "type": "Circuit · 5 laps",
+   "weather": "Light fog",
+   "seed": 64561025,
+   "track": "Watkins Glen International, USA · 5.552 km",
+   "results": [
+    {
+     "player": "king_lambo999",
+     "car": "Saleen Mustang Dark Horse '09",
+     "position": 1,
+     "time": "12:02.589",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "88r.",
+     "car": "Vauxhall Monaro VXR500 '06",
+     "position": 2,
+     "time": "12:17.416",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "daniel_350z",
+     "car": "Acura RSX '02",
+     "position": 3,
+     "time": "14:25.635",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "Hashy",
+     "car": "Mustang V6 '01",
+     "position": null,
+     "time": "DNF",
+     "dnf": true,
+     "points": 0,
+     "dnf_reason": "gearbox failure, T-5 lost third gear",
+     "dnf_lap": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "king_lambo999",
+    "time": "2:20.479",
+    "lap": 2
+   }
   }
  ],
  "test_season": false,
