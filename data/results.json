@@ -51,20 +51,20 @@
    "pick": 2
   },
   "chiefkeefgod": {
-   "name": "Vauxhall Monaro VXR500 '06",
-   "pick": 1
+   "name": "Gemballa Tornado GTS 750 '09",
+   "pick": 2
   },
   "felix_08131": {
-   "name": "Maserati GranSport MC Victory '06",
-   "pick": 1
+   "name": "Vauxhall Monaro VXR500 '06",
+   "pick": 2
   },
   ".arei.": {
-   "name": "Audi RS4 Avant (B7) '06",
-   "pick": 1
+   "name": "Porsche Cayenne Turbo S (955) '06",
+   "pick": 2
   },
   "2svj.": {
-   "name": "Bristol Fighter '04",
-   "pick": 1
+   "name": "Mercedes E63 AMG (W212) '09",
+   "pick": 2
   },
   "encore_mk1": {
    "name": "Saleen Mustang Dark Horse '09",
@@ -1469,6 +1469,220 @@
     "time": "3:06.221",
     "lap": 3
    }
+  },
+  {
+   "title": "Group 3 · Pick 2 · Race 1: Marina Bay",
+   "slug": "s11-g3-p2-r1-marina-bay",
+   "date": "2026-11-13",
+   "group": "g3",
+   "race_no": 1,
+   "pick": 2,
+   "venue": "marina_bay",
+   "image": "s11-g3-p2-r1-marina-bay",
+   "type": "Street circuit · 6 laps",
+   "weather": "Windy",
+   "seed": 88952868,
+   "track": "Marina Bay Street Circuit, Singapore · 4.927 km",
+   "results": [
+    {
+     "player": "felix_08131",
+     "car": "Vauxhall Monaro VXR500 '06",
+     "position": 1,
+     "time": "17:20.301",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "chiefkeefgod",
+     "car": "Gemballa Tornado GTS 750 '09",
+     "position": 2,
+     "time": "17:30.201",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "2svj.",
+     "car": "Mercedes E63 AMG (W212) '09",
+     "position": 3,
+     "time": "17:53.840",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": ".arei.",
+     "car": "Porsche Cayenne Turbo S (955) '06",
+     "position": 4,
+     "time": "18:50.688",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "felix_08131",
+    "time": "2:48.385",
+    "lap": 6
+   }
+  },
+  {
+   "title": "Group 3 · Pick 2 · Race 2: Daytona",
+   "slug": "s11-g3-p2-r2-daytona",
+   "date": "2026-11-13",
+   "group": "g3",
+   "race_no": 2,
+   "pick": 2,
+   "venue": "daytona",
+   "image": "s11-g3-p2-r2-daytona",
+   "type": "Oval · 10 laps",
+   "weather": "Clear and dry",
+   "seed": 39823485,
+   "track": "Daytona International Speedway, USA · 4.023 km",
+   "results": [
+    {
+     "player": "chiefkeefgod",
+     "car": "Gemballa Tornado GTS 750 '09",
+     "position": 1,
+     "time": "8:57.318",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "felix_08131",
+     "car": "Vauxhall Monaro VXR500 '06",
+     "position": 2,
+     "time": "9:00.665",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": ".arei.",
+     "car": "Porsche Cayenne Turbo S (955) '06",
+     "position": 3,
+     "time": "9:51.037",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "2svj.",
+     "car": "Mercedes E63 AMG (W212) '09",
+     "position": 4,
+     "time": "9:34.664",
+     "dnf": false,
+     "points": 4,
+     "laps": 9,
+     "gap": "+1 lap"
+    }
+   ],
+   "fastest_lap": {
+    "player": "chiefkeefgod",
+    "time": "52.189",
+    "lap": 4
+   }
+  },
+  {
+   "title": "Group 3 · Pick 2 · Race 3: Tsukuba",
+   "slug": "s11-g3-p2-r3-tsukuba",
+   "date": "2026-11-13",
+   "group": "g3",
+   "race_no": 3,
+   "pick": 2,
+   "venue": "tsukuba",
+   "image": "s11-g3-p2-r3-tsukuba",
+   "type": "Circuit · 12 laps",
+   "weather": "Overcast",
+   "seed": 5582050,
+   "track": "Tsukuba Circuit, Japan · 2.045 km",
+   "results": [
+    {
+     "player": "felix_08131",
+     "car": "Vauxhall Monaro VXR500 '06",
+     "position": 1,
+     "time": "14:38.806",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "chiefkeefgod",
+     "car": "Gemballa Tornado GTS 750 '09",
+     "position": 2,
+     "time": "14:43.452",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "2svj.",
+     "car": "Mercedes E63 AMG (W212) '09",
+     "position": 3,
+     "time": "15:25.017",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": ".arei.",
+     "car": "Porsche Cayenne Turbo S (955) '06",
+     "position": 4,
+     "time": "15:33.254",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "felix_08131",
+    "time": "1:08.108",
+    "lap": 6
+   }
+  },
+  {
+   "title": "Group 3 · Pick 2 · Race 4: Nordschleife",
+   "slug": "s11-g3-p2-r4-nordschleife",
+   "date": "2026-11-13",
+   "group": "g3",
+   "race_no": 4,
+   "pick": 2,
+   "venue": "nordschleife",
+   "image": "s11-g3-p2-r4-nordschleife",
+   "type": "Circuit · 3 laps",
+   "weather": "Cold",
+   "seed": 28220223,
+   "track": "Nürburgring Nordschleife, Germany · 20.832 km",
+   "results": [
+    {
+     "player": "felix_08131",
+     "car": "Vauxhall Monaro VXR500 '06",
+     "position": 1,
+     "time": "26:21.657",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "chiefkeefgod",
+     "car": "Gemballa Tornado GTS 750 '09",
+     "position": 2,
+     "time": "26:35.849",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "2svj.",
+     "car": "Mercedes E63 AMG (W212) '09",
+     "position": 3,
+     "time": "27:25.729",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": ".arei.",
+     "car": "Porsche Cayenne Turbo S (955) '06",
+     "position": 4,
+     "time": "29:07.126",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "felix_08131",
+    "time": "8:45.658",
+    "lap": 2
+   }
   }
  ],
  "test_season": false,
@@ -1625,6 +1839,22 @@
    },
    "Hashy": {
     "name": "Camaro V6 '01",
+    "pick": 2
+   },
+   "chiefkeefgod": {
+    "name": "Gemballa Tornado GTS 750 '09",
+    "pick": 2
+   },
+   "felix_08131": {
+    "name": "Vauxhall Monaro VXR500 '06",
+    "pick": 2
+   },
+   ".arei.": {
+    "name": "Porsche Cayenne Turbo S (955) '06",
+    "pick": 2
+   },
+   "2svj.": {
+    "name": "Mercedes E63 AMG (W212) '09",
     "pick": 2
    }
   }
