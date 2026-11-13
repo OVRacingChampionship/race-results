@@ -2125,6 +2125,224 @@
     "time": "2:09.999",
     "lap": 5
    }
+  },
+  {
+   "title": "Group 5 · Pick 1 · Race 1: Interlagos",
+   "slug": "s11-g5-p1-r1-interlagos",
+   "date": "2026-11-13",
+   "group": "g5",
+   "race_no": 1,
+   "pick": 1,
+   "venue": "interlagos",
+   "image": "s11-g5-p1-r1-interlagos",
+   "type": "Circuit · 7 laps",
+   "weather": "Hot",
+   "seed": 6626686,
+   "track": "Autódromo José Carlos Pace (Interlagos), Brazil · 4.309 km",
+   "results": [
+    {
+     "player": "tarafiiee",
+     "car": "Shelby GT500 KR 40th '08",
+     "position": 1,
+     "time": "14:08.829",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "notarashi",
+     "car": "Maserati GranSport MC Victory '06",
+     "position": 2,
+     "time": "15:34.099",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "chromeme",
+     "car": "Mercedes SLK55 AMG '04",
+     "position": 3,
+     "time": "15:43.511",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "vince_the_1st",
+     "car": "Audi TT Roadster '03",
+     "position": 4,
+     "time": "14:43.335",
+     "dnf": false,
+     "points": 4,
+     "laps": 6,
+     "gap": "+1 lap"
+    }
+   ],
+   "fastest_lap": {
+    "player": "tarafiiee",
+    "time": "1:59.695",
+    "lap": 6
+   }
+  },
+  {
+   "title": "Group 5 · Pick 1 · Race 2: COTA",
+   "slug": "s11-g5-p1-r2-cota",
+   "date": "2026-11-13",
+   "group": "g5",
+   "race_no": 2,
+   "pick": 1,
+   "venue": "cota",
+   "image": "s11-g5-p1-r2-cota",
+   "type": "Circuit · 5 laps",
+   "weather": "Light fog",
+   "seed": 60398635,
+   "track": "Circuit of the Americas, USA · 5.513 km",
+   "results": [
+    {
+     "player": "tarafiiee",
+     "car": "Shelby GT500 KR 40th '08",
+     "position": 1,
+     "time": "14:04.816",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "notarashi",
+     "car": "Maserati GranSport MC Victory '06",
+     "position": 2,
+     "time": "15:03.857",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "chromeme",
+     "car": "Mercedes SLK55 AMG '04",
+     "position": 3,
+     "time": "15:04.832",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "vince_the_1st",
+     "car": "Audi TT Roadster '03",
+     "position": 4,
+     "time": "17:01.808",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "tarafiiee",
+    "time": "2:39.692",
+    "lap": 5
+   }
+  },
+  {
+   "title": "Group 5 · Pick 1 · Race 3: Baku",
+   "slug": "s11-g5-p1-r3-baku",
+   "date": "2026-11-13",
+   "group": "g5",
+   "race_no": 3,
+   "pick": 1,
+   "venue": "baku",
+   "image": "s11-g5-p1-r3-baku",
+   "type": "Street circuit · 5 laps",
+   "weather": "Cold",
+   "seed": 37852222,
+   "track": "Baku City Circuit, Azerbaijan · 6.003 km",
+   "results": [
+    {
+     "player": "tarafiiee",
+     "car": "Shelby GT500 KR 40th '08",
+     "position": 1,
+     "time": "14:54.053",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "notarashi",
+     "car": "Maserati GranSport MC Victory '06",
+     "position": 2,
+     "time": "16:12.804",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "vince_the_1st",
+     "car": "Audi TT Roadster '03",
+     "position": 3,
+     "time": "17:55.837",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "chromeme",
+     "car": "Mercedes SLK55 AMG '04",
+     "position": null,
+     "time": "DNF",
+     "dnf": true,
+     "points": 0,
+     "dnf_reason": "crashed into the wall at Turn 15 after a half-spin, broken front suspension",
+     "dnf_lap": 2
+    }
+   ],
+   "fastest_lap": {
+    "player": "tarafiiee",
+    "time": "2:56.203",
+    "lap": 2
+   }
+  },
+  {
+   "title": "Group 5 · Pick 1 · Race 4: Bristol",
+   "slug": "s11-g5-p1-r4-bristol",
+   "date": "2026-11-13",
+   "group": "g5",
+   "race_no": 4,
+   "pick": 1,
+   "venue": "bristol",
+   "image": "s11-g5-p1-r4-bristol",
+   "type": "Oval · 30 laps",
+   "weather": "Dusk",
+   "seed": 54270631,
+   "track": "Bristol Motor Speedway, USA · 0.858 km",
+   "results": [
+    {
+     "player": "tarafiiee",
+     "car": "Shelby GT500 KR 40th '08",
+     "position": 1,
+     "time": "9:49.759",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "chromeme",
+     "car": "Mercedes SLK55 AMG '04",
+     "position": 2,
+     "time": "9:57.224",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "notarashi",
+     "car": "Maserati GranSport MC Victory '06",
+     "position": 3,
+     "time": "9:59.970",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "vince_the_1st",
+     "car": "Audi TT Roadster '03",
+     "position": 4,
+     "time": "9:52.116",
+     "dnf": false,
+     "points": 4,
+     "laps": 29,
+     "gap": "+1 lap"
+    }
+   ],
+   "fastest_lap": {
+    "player": "tarafiiee",
+    "time": "19.086",
+    "lap": 5
+   }
   }
  ],
  "test_season": false,
