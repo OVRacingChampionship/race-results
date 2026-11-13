@@ -9,20 +9,127 @@
  "groups_confirmed": true,
  "regular_season_complete": false,
  "points": [
-  25,
-  18,
-  15,
-  12,
   10,
   8,
   6,
-  4,
-  2,
-  1
+  4
  ],
- "points_confirmed": false,
- "points_note": "PLACEHOLDER: F1-style table carried over from testing. The real Season 11 points system is not confirmed yet; replace before the first race.",
- "entries": {},
+ "points_confirmed": true,
+ "points_note": "Group rounds: 1st 10, 2nd 8, 3rd 6, 4th 4. A DNF scores 0.",
+ "entries": {
+  "biometric_human": {
+   "name": "Saleen Mustang Dark Horse '09",
+   "pick": 1
+  },
+  "_baron_98": {
+   "name": "Maserati GranTurismo S LE '09",
+   "pick": 1
+  },
+  "thefoxywolfy": {
+   "name": "Maserati Coupe GranSport '04",
+   "pick": 1
+  },
+  "velocevelocevelo": {
+   "name": "Audi TT Mk2 '06",
+   "pick": 1
+  },
+  "88r.": {
+   "name": "Vauxhall Monaro VXR500 '06",
+   "pick": 1
+  },
+  "king_lambo999": {
+   "name": "Saleen Mustang Dark Horse '09",
+   "pick": 1
+  },
+  "daniel_350z": {
+   "name": "Acura RSX '02",
+   "pick": 1
+  },
+  "Hashy": {
+   "name": "Mustang V6 '01",
+   "pick": 1
+  },
+  "chiefkeefgod": {
+   "name": "Vauxhall Monaro VXR500 '06",
+   "pick": 1
+  },
+  "felix_08131": {
+   "name": "Maserati GranSport MC Victory '06",
+   "pick": 1
+  },
+  ".arei.": {
+   "name": "Audi RS4 Avant (B7) '06",
+   "pick": 1
+  },
+  "2svj.": {
+   "name": "Bristol Fighter '04",
+   "pick": 1
+  },
+  "encore_mk1": {
+   "name": "Saleen Mustang Dark Horse '09",
+   "pick": 1
+  },
+  "broisnthysilens": {
+   "name": "Corvette C5 Commemorative '04",
+   "pick": 1
+  },
+  "kia_forte": {
+   "name": "Camaro Z/28 '01",
+   "pick": 1
+  },
+  "pagani504": {
+   "name": "Fiat Palio R '04",
+   "pick": 1
+  },
+  "tarafiiee": {
+   "name": "Shelby GT500 KR 40th '08",
+   "pick": 1
+  },
+  "chromeme": {
+   "name": "Mercedes SLK55 AMG '04",
+   "pick": 1
+  },
+  "vince_the_1st": {
+   "name": "Audi TT Roadster '03",
+   "pick": 1
+  },
+  "notarashi": {
+   "name": "Maserati GranSport MC Victory '06",
+   "pick": 1
+  },
+  "khalish_d": {
+   "name": "Bristol Fighter '04",
+   "pick": 1
+  },
+  "justanoobperson": {
+   "name": "Mercedes SL65 AMG (R230) '04",
+   "pick": 1
+  },
+  "vattu2223": {
+   "name": "Mercedes SL65 AMG (R230) '04",
+   "pick": 1
+  },
+  "roberthloga": {
+   "name": "Maserati Spyder 4200 Cambiocorsa '02",
+   "pick": 1
+  },
+  "lacee5238": {
+   "name": "Maserati GranTurismo S '09",
+   "pick": 1
+  },
+  "thatonem4": {
+   "name": "Shelby GT500 KR 40th '08",
+   "pick": 1
+  },
+  "jimmykim3938": {
+   "name": "Ram SRT-10 Commemorative '05",
+   "pick": 1
+  },
+  "zehnx1006": {
+   "name": "Subaru Impreza WRX S '08",
+   "pick": 1
+  }
+ },
  "groups": [
   {
    "id": "g1",
@@ -277,6 +384,226 @@
    }
   }
  ],
- "races": [],
- "test_season": false
+ "races": [
+  {
+   "title": "Group 1 · Race 1: Suzuka",
+   "slug": "s11-g1-r1-suzuka",
+   "date": "2026-11-12",
+   "group": "g1",
+   "race_no": 1,
+   "pick": 1,
+   "venue": "suzuka",
+   "image": "s11-g1-r1-suzuka",
+   "type": "Circuit · 5 laps",
+   "weather": "Drizzle",
+   "seed": 17608765,
+   "track": "Suzuka International Racing Course, Japan · 5.807 km",
+   "results": [
+    {
+     "player": "biometric_human",
+     "car": "Saleen Mustang Dark Horse '09",
+     "position": 1,
+     "time": "14:09.166",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "_baron_98",
+     "car": "Maserati GranTurismo S LE '09",
+     "position": 2,
+     "time": "14:28.935",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "velocevelocevelo",
+     "car": "Audi TT Mk2 '06",
+     "position": 3,
+     "time": "15:49.474",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "thefoxywolfy",
+     "car": "Maserati Coupe GranSport '04",
+     "position": 4,
+     "time": "15:50.423",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "biometric_human",
+    "time": "2:38.244",
+    "lap": 4
+   }
+  },
+  {
+   "title": "Group 1 · Race 2: Mid-Ohio",
+   "slug": "s11-g1-r2-mid-ohio",
+   "date": "2026-11-12",
+   "group": "g1",
+   "race_no": 2,
+   "pick": 1,
+   "venue": "mid_ohio",
+   "image": "s11-g1-r2-mid-ohio",
+   "type": "Circuit · 8 laps",
+   "weather": "Overcast",
+   "seed": 81223942,
+   "track": "Mid-Ohio Sports Car Course, USA · 3.634 km",
+   "results": [
+    {
+     "player": "biometric_human",
+     "car": "Saleen Mustang Dark Horse '09",
+     "position": 1,
+     "time": "13:26.701",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "_baron_98",
+     "car": "Maserati GranTurismo S LE '09",
+     "position": 2,
+     "time": "14:19.404",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "thefoxywolfy",
+     "car": "Maserati Coupe GranSport '04",
+     "position": 3,
+     "time": "14:36.852",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "velocevelocevelo",
+     "car": "Audi TT Mk2 '06",
+     "position": 4,
+     "time": "15:16.065",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "biometric_human",
+    "time": "1:39.117",
+    "lap": 6
+   }
+  },
+  {
+   "title": "Group 1 · Race 3: Spa-Francorchamps",
+   "slug": "s11-g1-r3-spa",
+   "date": "2026-11-12",
+   "group": "g1",
+   "race_no": 3,
+   "pick": 1,
+   "venue": "spa",
+   "image": "s11-g1-r3-spa",
+   "type": "Circuit · 4 laps",
+   "weather": "Light fog",
+   "seed": 98768342,
+   "track": "Circuit de Spa-Francorchamps, Belgium · 7.004 km",
+   "results": [
+    {
+     "player": "biometric_human",
+     "car": "Saleen Mustang Dark Horse '09",
+     "position": 1,
+     "time": "12:16.676",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "thefoxywolfy",
+     "car": "Maserati Coupe GranSport '04",
+     "position": 2,
+     "time": "13:18.427",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "_baron_98",
+     "car": "Maserati GranTurismo S LE '09",
+     "position": 3,
+     "time": "13:19.567",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "velocevelocevelo",
+     "car": "Audi TT Mk2 '06",
+     "position": 4,
+     "time": "13:53.619",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "biometric_human",
+    "time": "2:53.113",
+    "lap": 3
+   }
+  },
+  {
+   "title": "Group 1 · Race 4: Monza",
+   "slug": "s11-g1-r4-monza",
+   "date": "2026-11-12",
+   "group": "g1",
+   "race_no": 4,
+   "pick": 1,
+   "venue": "monza",
+   "image": "s11-g1-r4-monza",
+   "type": "Circuit · 5 laps",
+   "weather": "Light fog",
+   "seed": 73772029,
+   "track": "Autodromo Nazionale Monza, Italy · 5.793 km",
+   "results": [
+    {
+     "player": "biometric_human",
+     "car": "Saleen Mustang Dark Horse '09",
+     "position": 1,
+     "time": "12:24.143",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "_baron_98",
+     "car": "Maserati GranTurismo S LE '09",
+     "position": 2,
+     "time": "13:10.561",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "thefoxywolfy",
+     "car": "Maserati Coupe GranSport '04",
+     "position": 3,
+     "time": "13:44.812",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "velocevelocevelo",
+     "car": "Audi TT Mk2 '06",
+     "position": null,
+     "time": "DNF",
+     "dnf": true,
+     "points": 0,
+     "dnf_reason": "driveshaft failure",
+     "dnf_lap": 5
+    }
+   ],
+   "fastest_lap": {
+    "player": "biometric_human",
+    "time": "2:27.254",
+    "lap": 5
+   }
+  }
+ ],
+ "test_season": false,
+ "tiebreak": [
+  "points",
+  "most race wins",
+  "single 1v1 elimination race between the tied drivers"
+ ]
 }
