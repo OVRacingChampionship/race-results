@@ -84,20 +84,21 @@
    "pick": 4
   },
   "tarafiiee": {
-   "name": "Lambo Aventador Roadster '12",
-   "pick": 3
+   "name": "Arash AF8 Falcon Edition '14",
+   "pick": 4
   },
   "chromeme": {
-   "name": "M-Tech Mercedes E63 '18",
-   "pick": 3
+   "name": "BMW M3 CS (F80) '18",
+   "pick": 4
   },
   "vince_the_1st": {
-   "name": "BMW M5 30 Jahre '14",
-   "pick": 3
+   "name": "Dodge Charger Hellcat Widebody Daytona 50th '20",
+   "pick": 4
   },
   "notarashi": {
    "name": "Corvette C7 Convertible '14",
-   "pick": 3
+   "pick": 3,
+   "note": "No Pick 4 car (DNS)"
   },
   "khalish_d": {
    "name": "Porsche 911 (996) 40 Jahre '03",
@@ -5426,6 +5427,232 @@
     "time": "2:45.367",
     "lap": 4
    }
+  },
+  {
+   "title": "Group 5 · Pick 4 · Race 1: Suzuka",
+   "slug": "s11-g5-p4-r1-suzuka",
+   "date": "2026-11-14",
+   "group": "g5",
+   "race_no": 1,
+   "pick": 4,
+   "venue": "suzuka",
+   "image": "s11-g5-p4-r1-suzuka",
+   "type": "Circuit · 5 laps",
+   "weather": "Thunderstorm",
+   "seed": 29437431,
+   "track": "Suzuka International Racing Course, Japan · 5.807 km",
+   "results": [
+    {
+     "player": "tarafiiee",
+     "car": "Arash AF8 Falcon Edition '14",
+     "position": 1,
+     "time": "15:18.595",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "vince_the_1st",
+     "car": "Dodge Charger Hellcat Widebody Daytona 50th '20",
+     "position": 2,
+     "time": "16:07.746",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "chromeme",
+     "car": "BMW M3 CS (F80) '18",
+     "position": 3,
+     "time": "16:49.678",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "notarashi",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 4 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "chromeme",
+    "time": "2:30.379",
+    "lap": 1
+   }
+  },
+  {
+   "title": "Group 5 · Pick 4 · Race 2: Bathurst",
+   "slug": "s11-g5-p4-r2-bathurst",
+   "date": "2026-11-14",
+   "group": "g5",
+   "race_no": 2,
+   "pick": 4,
+   "venue": "bathurst",
+   "image": "s11-g5-p4-r2-bathurst",
+   "type": "Circuit · 5 laps",
+   "weather": "Clear and dry",
+   "seed": 14228530,
+   "track": "Mount Panorama Circuit, Bathurst, Australia · 6.213 km",
+   "results": [
+    {
+     "player": "tarafiiee",
+     "car": "Arash AF8 Falcon Edition '14",
+     "position": 1,
+     "time": "11:56.572",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "vince_the_1st",
+     "car": "Dodge Charger Hellcat Widebody Daytona 50th '20",
+     "position": 2,
+     "time": "12:05.314",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "chromeme",
+     "car": "BMW M3 CS (F80) '18",
+     "position": 3,
+     "time": "12:12.656",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "notarashi",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 4 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "tarafiiee",
+    "time": "2:19.797",
+    "lap": 4
+   }
+  },
+  {
+   "title": "Group 5 · Pick 4 · Race 3: Marina Bay",
+   "slug": "s11-g5-p4-r3-marina-bay",
+   "date": "2026-11-14",
+   "group": "g5",
+   "race_no": 3,
+   "pick": 4,
+   "venue": "marina_bay",
+   "image": "s11-g5-p4-r3-marina-bay",
+   "type": "Street circuit · 6 laps",
+   "weather": "Overcast",
+   "seed": 42237018,
+   "track": "Marina Bay Street Circuit, Singapore · 4.927 km",
+   "results": [
+    {
+     "player": "tarafiiee",
+     "car": "Arash AF8 Falcon Edition '14",
+     "position": 1,
+     "time": "16:32.307",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "chromeme",
+     "car": "BMW M3 CS (F80) '18",
+     "position": 2,
+     "time": "16:48.695",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "vince_the_1st",
+     "car": "Dodge Charger Hellcat Widebody Daytona 50th '20",
+     "position": 3,
+     "time": "16:49.957",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "notarashi",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 4 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "tarafiiee",
+    "time": "2:32.553",
+    "lap": 3
+   }
+  },
+  {
+   "title": "Group 5 · Pick 4 · Race 4: Sweet Lamb Hafren",
+   "slug": "s11-g5-p4-r4-sweet-lamb",
+   "date": "2026-11-14",
+   "group": "g5",
+   "race_no": 4,
+   "pick": 4,
+   "venue": "sweet_lamb",
+   "image": "s11-g5-p4-r4-sweet-lamb",
+   "type": "Rally stage · 25.6 km",
+   "weather": "Heavy rain",
+   "seed": 61050605,
+   "track": "Sweet Lamb Hafren (Wales Rally GB), UK · 25.6 km stage",
+   "results": [
+    {
+     "player": "vince_the_1st",
+     "car": "Dodge Charger Hellcat Widebody Daytona 50th '20",
+     "position": 1,
+     "time": "29:44.512",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "tarafiiee",
+     "car": "Arash AF8 Falcon Edition '14",
+     "position": 2,
+     "time": "29:53.849",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "chromeme",
+     "car": "BMW M3 CS (F80) '18",
+     "position": 3,
+     "time": "32:30.656",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "notarashi",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 4 car)",
+     "points": 0
+    }
+   ],
+   "format": "rally stage: one car at a time, 1-minute intervals, 2 splits + finish",
+   "start_order": [
+    "tarafiiee",
+    "chromeme",
+    "vince_the_1st"
+   ],
+   "fastest_split": {
+    "player": "vince_the_1st",
+    "time": "9:11.661",
+    "split": 1
+   }
   }
  ],
  "test_season": false,
@@ -5815,6 +6042,23 @@
    "pagani504": {
     "name": "Porsche Panamera (970) '13",
     "pick": 4
+   },
+   "tarafiiee": {
+    "name": "Arash AF8 Falcon Edition '14",
+    "pick": 4
+   },
+   "chromeme": {
+    "name": "BMW M3 CS (F80) '18",
+    "pick": 4
+   },
+   "vince_the_1st": {
+    "name": "Dodge Charger Hellcat Widebody Daytona 50th '20",
+    "pick": 4
+   },
+   "notarashi": {
+    "name": "No car",
+    "pick": 4,
+    "dns": true
    }
   }
  }
