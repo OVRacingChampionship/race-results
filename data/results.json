@@ -117,20 +117,20 @@
    "pick": 4
   },
   "lacee5238": {
-   "name": "Lambo Aventador Roadster '12",
-   "pick": 3
+   "name": "Audi RS6 DTM Stertman/Caresto '15",
+   "pick": 4
   },
   "thatonem4": {
-   "name": "Ferrari 599 GTB 60F1 Alonso '11",
-   "pick": 3
+   "name": "Lambo Aventador LP 700-4 Pirelli Roadster '15",
+   "pick": 4
   },
   "jimmykim3938": {
-   "name": "Saleen S1 '17",
-   "pick": 3
+   "name": "BMW X6 M '19",
+   "pick": 4
   },
   "zehnx1006": {
-   "name": "Porsche 911 (991) Carrera S '12",
-   "pick": 3
+   "name": "Porsche Cayman R (987) '11",
+   "pick": 4
   }
  },
  "groups": [
@@ -6302,6 +6302,233 @@
     "time": "7:18.078",
     "split": 3
    }
+  },
+  {
+   "title": "Group 7 · Pick 4 · Race 1: Aittajärvi",
+   "slug": "s11-g7-p4-r1-aittajarvi",
+   "date": "2026-11-14",
+   "group": "g7",
+   "race_no": 1,
+   "pick": 4,
+   "venue": "aittajarvi",
+   "image": "s11-g7-p4-r1-aittajarvi",
+   "type": "Rally stage · 22.5 km",
+   "weather": "Light snow",
+   "seed": 98232172,
+   "track": "Aittajärvi (Arctic Rally Finland), Finland · 22.5 km stage",
+   "results": [
+    {
+     "player": "thatonem4",
+     "car": "Lambo Aventador LP 700-4 Pirelli Roadster '15",
+     "position": 1,
+     "time": "22:28.155",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "lacee5238",
+     "car": "Audi RS6 DTM Stertman/Caresto '15",
+     "position": 2,
+     "time": "22:58.999",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "jimmykim3938",
+     "car": "BMW X6 M '19",
+     "position": 3,
+     "time": "24:32.012",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "zehnx1006",
+     "car": "Porsche Cayman R (987) '11",
+     "position": 4,
+     "time": "26:33.638",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "format": "rally stage: one car at a time, 1-minute intervals, 2 splits + finish",
+   "start_order": [
+    "lacee5238",
+    "thatonem4",
+    "jimmykim3938",
+    "zehnx1006"
+   ],
+   "fastest_split": {
+    "player": "lacee5238",
+    "time": "6:06.341",
+    "split": 1
+   }
+  },
+  {
+   "title": "Group 7 · Pick 4 · Race 2: Brno",
+   "slug": "s11-g7-p4-r2-brno",
+   "date": "2026-11-14",
+   "group": "g7",
+   "race_no": 2,
+   "pick": 4,
+   "venue": "brno",
+   "image": "s11-g7-p4-r2-brno",
+   "type": "Circuit · 6 laps",
+   "weather": "Heavy blizzard",
+   "seed": 73655982,
+   "track": "Brno Circuit, Czech Republic · 5.403 km",
+   "results": [
+    {
+     "player": "lacee5238",
+     "car": "Audi RS6 DTM Stertman/Caresto '15",
+     "position": 1,
+     "time": "20:20.298",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "thatonem4",
+     "car": "Lambo Aventador LP 700-4 Pirelli Roadster '15",
+     "position": 2,
+     "time": "20:26.704",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "jimmykim3938",
+     "car": "BMW X6 M '19",
+     "position": 3,
+     "time": "23:06.043",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "zehnx1006",
+     "car": "Porsche Cayman R (987) '11",
+     "position": 4,
+     "time": "24:08.140",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "lacee5238",
+    "time": "2:31.465",
+    "lap": 2
+   }
+  },
+  {
+   "title": "Group 7 · Pick 4 · Race 3: Tsukuba",
+   "slug": "s11-g7-p4-r3-tsukuba",
+   "date": "2026-11-14",
+   "group": "g7",
+   "race_no": 3,
+   "pick": 4,
+   "venue": "tsukuba",
+   "image": "s11-g7-p4-r3-tsukuba",
+   "type": "Circuit · 12 laps",
+   "weather": "Extreme heat",
+   "seed": 31529872,
+   "track": "Tsukuba Circuit, Japan · 2.045 km",
+   "results": [
+    {
+     "player": "lacee5238",
+     "car": "Audi RS6 DTM Stertman/Caresto '15",
+     "position": 1,
+     "time": "13:10.239",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "thatonem4",
+     "car": "Lambo Aventador LP 700-4 Pirelli Roadster '15",
+     "position": 2,
+     "time": "13:27.232",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "jimmykim3938",
+     "car": "BMW X6 M '19",
+     "position": 3,
+     "time": "13:26.168",
+     "dnf": false,
+     "points": 6,
+     "laps": 11,
+     "gap": "+1 lap"
+    },
+    {
+     "player": "zehnx1006",
+     "car": "Porsche Cayman R (987) '11",
+     "position": null,
+     "time": "DNF",
+     "dnf": true,
+     "points": 0,
+     "dnf_reason": "gearbox failure",
+     "dnf_lap": 11
+    }
+   ],
+   "fastest_lap": {
+    "player": "lacee5238",
+    "time": "1:03.688",
+    "lap": 11
+   }
+  },
+  {
+   "title": "Group 7 · Pick 4 · Race 4: Mantorp Park",
+   "slug": "s11-g7-p4-r4-mantorp",
+   "date": "2026-11-14",
+   "group": "g7",
+   "race_no": 4,
+   "pick": 4,
+   "venue": "mantorp",
+   "image": "s11-g7-p4-r4-mantorp",
+   "type": "Circuit · 10 laps",
+   "weather": "Clear and dry",
+   "seed": 40805416,
+   "track": "Mantorp Park, Sweden · 3.106 km",
+   "results": [
+    {
+     "player": "thatonem4",
+     "car": "Lambo Aventador LP 700-4 Pirelli Roadster '15",
+     "position": 1,
+     "time": "15:23.375",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "lacee5238",
+     "car": "Audi RS6 DTM Stertman/Caresto '15",
+     "position": 2,
+     "time": "15:38.249",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "zehnx1006",
+     "car": "Porsche Cayman R (987) '11",
+     "position": 3,
+     "time": "15:38.442",
+     "dnf": false,
+     "points": 6,
+     "laps": 9,
+     "gap": "+1 lap"
+    },
+    {
+     "player": "jimmykim3938",
+     "car": "BMW X6 M '19",
+     "position": 4,
+     "time": "15:47.473",
+     "dnf": false,
+     "points": 4,
+     "laps": 9,
+     "gap": "+1 lap"
+    }
+   ],
+   "fastest_lap": {
+    "player": "thatonem4",
+    "time": "1:30.388",
+    "lap": 7
+   }
   }
  ],
  "test_season": false,
@@ -6755,6 +6982,22 @@
    },
    "roberthloga": {
     "name": "Porsche Panamera S E-Hybrid '14",
+    "pick": 4
+   },
+   "lacee5238": {
+    "name": "Audi RS6 DTM Stertman/Caresto '15",
+    "pick": 4
+   },
+   "thatonem4": {
+    "name": "Lambo Aventador LP 700-4 Pirelli Roadster '15",
+    "pick": 4
+   },
+   "jimmykim3938": {
+    "name": "BMW X6 M '19",
+    "pick": 4
+   },
+   "zehnx1006": {
+    "name": "Porsche Cayman R (987) '11",
     "pick": 4
    }
   }
