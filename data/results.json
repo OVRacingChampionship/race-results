@@ -68,20 +68,20 @@
    "note": "No Pick 4 or 4 car (DNS)"
   },
   "encore_mk1": {
-   "name": "Bristol Fighter '04",
-   "pick": 2
+   "name": "Gemballa GTP 720 '10",
+   "pick": 3
   },
   "broisnthysilens": {
-   "name": "Bristol Fighter '04",
-   "pick": 2
+   "name": "MNR VortX Hayabusa RT Plus '14",
+   "pick": 3
   },
   "kia_forte": {
-   "name": "Audi S4 Avant (B7) '05",
-   "pick": 2
+   "name": "BMW M2 CS '20",
+   "pick": 3
   },
   "pagani504": {
-   "name": "Dodge Ram 2500 Cummins '06",
-   "pick": 2
+   "name": "DDR Grullón GT8SS GP '11",
+   "pick": 3
   },
   "tarafiiee": {
    "name": "Mercedes SL65 AMG (R230) '04",
@@ -4764,6 +4764,231 @@
     "time": "6:15.395",
     "split": 1
    }
+  },
+  {
+   "title": "Group 4 · Pick 3 · Race 1: Sweet Lamb Hafren",
+   "slug": "s11-g4-p3-r1-sweet-lamb",
+   "date": "2026-11-13",
+   "group": "g4",
+   "race_no": 1,
+   "pick": 3,
+   "venue": "sweet_lamb",
+   "image": "s11-g4-p3-r1-sweet-lamb",
+   "type": "Rally stage · 25.6 km",
+   "weather": "Thunderstorm",
+   "seed": 35583806,
+   "track": "Sweet Lamb Hafren (Wales Rally GB), UK · 25.6 km stage",
+   "results": [
+    {
+     "player": "encore_mk1",
+     "car": "Gemballa GTP 720 '10",
+     "position": 1,
+     "time": "26:27.920",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "broisnthysilens",
+     "car": "MNR VortX Hayabusa RT Plus '14",
+     "position": 2,
+     "time": "30:44.890",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "pagani504",
+     "car": "DDR Grullón GT8SS GP '11",
+     "position": 3,
+     "time": "31:06.114",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "kia_forte",
+     "car": "BMW M2 CS '20",
+     "position": 4,
+     "time": "34:41.385",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "format": "rally stage: one car at a time, 1-minute intervals, 2 splits + finish",
+   "start_order": [
+    "pagani504",
+    "kia_forte",
+    "encore_mk1",
+    "broisnthysilens"
+   ],
+   "fastest_split": {
+    "player": "encore_mk1",
+    "time": "8:36.236",
+    "split": 1
+   }
+  },
+  {
+   "title": "Group 4 · Pick 3 · Race 2: Bristol",
+   "slug": "s11-g4-p3-r2-bristol",
+   "date": "2026-11-13",
+   "group": "g4",
+   "race_no": 2,
+   "pick": 3,
+   "venue": "bristol",
+   "image": "s11-g4-p3-r2-bristol",
+   "type": "Oval · 30 laps",
+   "weather": "Heavy fog",
+   "seed": 99875143,
+   "track": "Bristol Motor Speedway, USA · 0.858 km",
+   "results": [
+    {
+     "player": "kia_forte",
+     "car": "BMW M2 CS '20",
+     "position": 1,
+     "time": "9:32.535",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "broisnthysilens",
+     "car": "MNR VortX Hayabusa RT Plus '14",
+     "position": 2,
+     "time": "9:46.475",
+     "dnf": false,
+     "points": 8,
+     "laps": 27,
+     "gap": "+3 laps"
+    },
+    {
+     "player": "encore_mk1",
+     "car": "Gemballa GTP 720 '10",
+     "position": 3,
+     "time": "9:46.699",
+     "dnf": false,
+     "points": 6,
+     "laps": 27,
+     "gap": "+3 laps"
+    },
+    {
+     "player": "pagani504",
+     "car": "DDR Grullón GT8SS GP '11",
+     "position": 4,
+     "time": "9:42.558",
+     "dnf": false,
+     "points": 4,
+     "laps": 26,
+     "gap": "+4 laps"
+    }
+   ],
+   "fastest_lap": {
+    "player": "kia_forte",
+    "time": "16.609",
+    "lap": 30
+   }
+  },
+  {
+   "title": "Group 4 · Pick 3 · Race 3: Mid-Ohio",
+   "slug": "s11-g4-p3-r3-mid-ohio",
+   "date": "2026-11-13",
+   "group": "g4",
+   "race_no": 3,
+   "pick": 3,
+   "venue": "mid_ohio",
+   "image": "s11-g4-p3-r3-mid-ohio",
+   "type": "Circuit · 8 laps",
+   "weather": "Drying track",
+   "seed": 58734046,
+   "track": "Mid-Ohio Sports Car Course, USA · 3.634 km",
+   "results": [
+    {
+     "player": "broisnthysilens",
+     "car": "MNR VortX Hayabusa RT Plus '14",
+     "position": 1,
+     "time": "13:33.731",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "encore_mk1",
+     "car": "Gemballa GTP 720 '10",
+     "position": 2,
+     "time": "13:49.582",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "kia_forte",
+     "car": "BMW M2 CS '20",
+     "position": 3,
+     "time": "14:18.010",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "pagani504",
+     "car": "DDR Grullón GT8SS GP '11",
+     "position": 4,
+     "time": "14:48.118",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "broisnthysilens",
+    "time": "1:36.822",
+    "lap": 8
+   }
+  },
+  {
+   "title": "Group 4 · Pick 3 · Race 4: VIR Grand Course",
+   "slug": "s11-g4-p3-r4-vir",
+   "date": "2026-11-13",
+   "group": "g4",
+   "race_no": 4,
+   "pick": 3,
+   "venue": "vir_grand",
+   "image": "s11-g4-p3-r4-vir",
+   "type": "Circuit · 5 laps",
+   "weather": "Clear and dry",
+   "seed": 71096846,
+   "track": "Virginia International Raceway, Grand Course, USA · 6.598 km",
+   "results": [
+    {
+     "player": "encore_mk1",
+     "car": "Gemballa GTP 720 '10",
+     "position": 1,
+     "time": "15:03.194",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "kia_forte",
+     "car": "BMW M2 CS '20",
+     "position": 2,
+     "time": "15:38.494",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "broisnthysilens",
+     "car": "MNR VortX Hayabusa RT Plus '14",
+     "position": 3,
+     "time": "15:43.096",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "pagani504",
+     "car": "DDR Grullón GT8SS GP '11",
+     "position": 4,
+     "time": "16:23.456",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "encore_mk1",
+    "time": "2:54.567",
+    "lap": 2
+   }
   }
  ],
  "test_season": false,
@@ -5053,6 +5278,22 @@
     "name": "No car",
     "pick": 3,
     "dns": true
+   },
+   "encore_mk1": {
+    "name": "Gemballa GTP 720 '10",
+    "pick": 3
+   },
+   "broisnthysilens": {
+    "name": "MNR VortX Hayabusa RT Plus '14",
+    "pick": 3
+   },
+   "kia_forte": {
+    "name": "BMW M2 CS '20",
+    "pick": 3
+   },
+   "pagani504": {
+    "name": "DDR Grullón GT8SS GP '11",
+    "pick": 3
    }
   },
   "4": {
