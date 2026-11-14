@@ -115,20 +115,20 @@
    "pick": 2
   },
   "lacee5238": {
-   "name": "Maserati GranTurismo S '09",
-   "pick": 1
+   "name": "Porsche 911 (996) 40 Jahre '03",
+   "pick": 2
   },
   "thatonem4": {
-   "name": "Shelby GT500 KR 40th '08",
-   "pick": 1
+   "name": "Corvette C5 Commemorative '04",
+   "pick": 2
   },
   "jimmykim3938": {
-   "name": "Ram SRT-10 Commemorative '05",
-   "pick": 1
+   "name": "Honda Civic Type R FN2 '07",
+   "pick": 2
   },
   "zehnx1006": {
-   "name": "Subaru Impreza WRX S '08",
-   "pick": 1
+   "name": "Proton Satria R3 '04",
+   "pick": 2
   }
  },
  "groups": [
@@ -3215,6 +3215,222 @@
     "time": "1:59.422",
     "lap": 5
    }
+  },
+  {
+   "title": "Group 7 · Pick 2 · Race 1: Baku",
+   "slug": "s11-g7-p2-r1-baku",
+   "date": "2026-11-13",
+   "group": "g7",
+   "race_no": 1,
+   "pick": 2,
+   "venue": "baku",
+   "image": "s11-g7-p2-r1-baku",
+   "type": "Street circuit · 5 laps",
+   "weather": "Heavy fog",
+   "seed": 37255563,
+   "track": "Baku City Circuit, Azerbaijan · 6.003 km",
+   "results": [
+    {
+     "player": "thatonem4",
+     "car": "Corvette C5 Commemorative '04",
+     "position": 1,
+     "time": "16:58.709",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "lacee5238",
+     "car": "Porsche 911 (996) 40 Jahre '03",
+     "position": 2,
+     "time": "17:24.212",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "jimmykim3938",
+     "car": "Honda Civic Type R FN2 '07",
+     "position": 3,
+     "time": "19:04.393",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "zehnx1006",
+     "car": "Proton Satria R3 '04",
+     "position": 4,
+     "time": "19:28.605",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "thatonem4",
+    "time": "3:03.621",
+    "lap": 4
+   }
+  },
+  {
+   "title": "Group 7 · Pick 2 · Race 2: Silverstone",
+   "slug": "s11-g7-p2-r2-silverstone",
+   "date": "2026-11-13",
+   "group": "g7",
+   "race_no": 2,
+   "pick": 2,
+   "venue": "silverstone",
+   "image": "s11-g7-p2-r2-silverstone",
+   "type": "Circuit · 5 laps",
+   "weather": "Clear and dry",
+   "seed": 72012314,
+   "track": "Silverstone Circuit, UK · 5.891 km",
+   "results": [
+    {
+     "player": "thatonem4",
+     "car": "Corvette C5 Commemorative '04",
+     "position": 1,
+     "time": "13:21.359",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "lacee5238",
+     "car": "Porsche 911 (996) 40 Jahre '03",
+     "position": 2,
+     "time": "13:35.144",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "jimmykim3938",
+     "car": "Honda Civic Type R FN2 '07",
+     "position": 3,
+     "time": "14:03.673",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "zehnx1006",
+     "car": "Proton Satria R3 '04",
+     "position": 4,
+     "time": "15:06.156",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "lacee5238",
+    "time": "2:36.768",
+    "lap": 3
+   }
+  },
+  {
+   "title": "Group 7 · Pick 2 · Race 3: Bristol",
+   "slug": "s11-g7-p2-r3-bristol",
+   "date": "2026-11-13",
+   "group": "g7",
+   "race_no": 3,
+   "pick": 2,
+   "venue": "bristol",
+   "image": "s11-g7-p2-r3-bristol",
+   "type": "Oval · 30 laps",
+   "weather": "Windy",
+   "seed": 82177902,
+   "track": "Bristol Motor Speedway, USA · 0.858 km",
+   "results": [
+    {
+     "player": "thatonem4",
+     "car": "Corvette C5 Commemorative '04",
+     "position": 1,
+     "time": "9:55.462",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "lacee5238",
+     "car": "Porsche 911 (996) 40 Jahre '03",
+     "position": 2,
+     "time": "10:08.018",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "jimmykim3938",
+     "car": "Honda Civic Type R FN2 '07",
+     "position": 3,
+     "time": "10:08.427",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "zehnx1006",
+     "car": "Proton Satria R3 '04",
+     "position": 4,
+     "time": "10:02.968",
+     "dnf": false,
+     "points": 4,
+     "laps": 29,
+     "gap": "+1 lap"
+    }
+   ],
+   "fastest_lap": {
+    "player": "thatonem4",
+    "time": "18.947",
+    "lap": 20
+   }
+  },
+  {
+   "title": "Group 7 · Pick 2 · Race 4: Fuji",
+   "slug": "s11-g7-p2-r4-fuji",
+   "date": "2026-11-13",
+   "group": "g7",
+   "race_no": 4,
+   "pick": 2,
+   "venue": "fuji",
+   "image": "s11-g7-p2-r4-fuji",
+   "type": "Circuit · 7 laps",
+   "weather": "Drying track",
+   "seed": 74865462,
+   "track": "Fuji Speedway, Japan · 4.563 km",
+   "results": [
+    {
+     "player": "thatonem4",
+     "car": "Corvette C5 Commemorative '04",
+     "position": 1,
+     "time": "16:55.150",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "lacee5238",
+     "car": "Porsche 911 (996) 40 Jahre '03",
+     "position": 2,
+     "time": "17:25.342",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "jimmykim3938",
+     "car": "Honda Civic Type R FN2 '07",
+     "position": 3,
+     "time": "18:18.568",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "zehnx1006",
+     "car": "Proton Satria R3 '04",
+     "position": 4,
+     "time": "16:58.096",
+     "dnf": false,
+     "points": 4,
+     "laps": 6,
+     "gap": "+1 lap"
+    }
+   ],
+   "fastest_lap": {
+    "player": "thatonem4",
+    "time": "2:19.996",
+    "lap": 7
+   }
   }
  ],
  "test_season": false,
@@ -3435,6 +3651,22 @@
    },
    "roberthloga": {
     "name": "Subaru WRX Club Spec Evo 8 '04",
+    "pick": 2
+   },
+   "lacee5238": {
+    "name": "Porsche 911 (996) 40 Jahre '03",
+    "pick": 2
+   },
+   "thatonem4": {
+    "name": "Corvette C5 Commemorative '04",
+    "pick": 2
+   },
+   "jimmykim3938": {
+    "name": "Honda Civic Type R FN2 '07",
+    "pick": 2
+   },
+   "zehnx1006": {
+    "name": "Proton Satria R3 '04",
     "pick": 2
    }
   }
