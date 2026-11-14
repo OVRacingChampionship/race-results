@@ -35,20 +35,20 @@
    "note": "No Pick 2, 3 or 4 car (DNS)"
   },
   "88r.": {
-   "name": "Exotic Rides W70 '15",
-   "pick": 3
+   "name": "Falcon F7 '12",
+   "pick": 4
   },
   "king_lambo999": {
-   "name": "Ferrari 599 SA Aperta '10",
-   "pick": 3
+   "name": "Panoz Abruzzi '10",
+   "pick": 4
   },
   "daniel_350z": {
-   "name": "Corvette C7 Convertible '14",
-   "pick": 3
+   "name": "Lambo Gallardo LP 550-2 Spyder '11",
+   "pick": 4
   },
   "Hashy": {
-   "name": "Mustang V6 '11",
-   "pick": 3
+   "name": "Camaro V6 '12",
+   "pick": 4
   },
   "chiefkeefgod": {
    "name": "Gemballa Tornado GTS 750 '09",
@@ -4095,6 +4095,222 @@
     "time": "2:30.287",
     "lap": 3
    }
+  },
+  {
+   "title": "Group 2 · Pick 4 · Race 1: Baku",
+   "slug": "s11-g2-p4-r1-baku",
+   "date": "2026-11-13",
+   "group": "g2",
+   "race_no": 1,
+   "pick": 4,
+   "venue": "baku",
+   "image": "s11-g2-p4-r1-baku",
+   "type": "Street circuit · 5 laps",
+   "weather": "Hot",
+   "seed": 31824252,
+   "track": "Baku City Circuit, Azerbaijan · 6.003 km",
+   "results": [
+    {
+     "player": "king_lambo999",
+     "car": "Panoz Abruzzi '10",
+     "position": 1,
+     "time": "13:56.935",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "88r.",
+     "car": "Falcon F7 '12",
+     "position": 2,
+     "time": "13:58.177",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "daniel_350z",
+     "car": "Lambo Gallardo LP 550-2 Spyder '11",
+     "position": 3,
+     "time": "14:55.128",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "Hashy",
+     "car": "Camaro V6 '12",
+     "position": 4,
+     "time": "16:46.912",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "88r.",
+    "time": "2:42.653",
+    "lap": 5
+   }
+  },
+  {
+   "title": "Group 2 · Pick 4 · Race 2: Monaco",
+   "slug": "s11-g2-p4-r2-monaco",
+   "date": "2026-11-13",
+   "group": "g2",
+   "race_no": 2,
+   "pick": 4,
+   "venue": "monaco",
+   "image": "s11-g2-p4-r2-monaco",
+   "type": "Street circuit · 9 laps",
+   "weather": "Clear and dry",
+   "seed": 84833382,
+   "track": "Circuit de Monaco, Monaco · 3.337 km",
+   "results": [
+    {
+     "player": "88r.",
+     "car": "Falcon F7 '12",
+     "position": 1,
+     "time": "18:29.360",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "king_lambo999",
+     "car": "Panoz Abruzzi '10",
+     "position": 2,
+     "time": "18:42.464",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "daniel_350z",
+     "car": "Lambo Gallardo LP 550-2 Spyder '11",
+     "position": 3,
+     "time": "18:54.228",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "Hashy",
+     "car": "Camaro V6 '12",
+     "position": null,
+     "time": "DNF",
+     "dnf": true,
+     "points": 0,
+     "dnf_reason": "heavy crash: locked the brakes at the end of the fastest straight and hit the concrete wall head-on",
+     "dnf_lap": 3
+    }
+   ],
+   "fastest_lap": {
+    "player": "88r.",
+    "time": "2:00.047",
+    "lap": 3
+   }
+  },
+  {
+   "title": "Group 2 · Pick 4 · Race 3: Bathurst",
+   "slug": "s11-g2-p4-r3-bathurst",
+   "date": "2026-11-13",
+   "group": "g2",
+   "race_no": 3,
+   "pick": 4,
+   "venue": "bathurst",
+   "image": "s11-g2-p4-r3-bathurst",
+   "type": "Circuit · 5 laps",
+   "weather": "Thunderstorm",
+   "seed": 70044372,
+   "track": "Mount Panorama Circuit, Bathurst, Australia · 6.213 km",
+   "results": [
+    {
+     "player": "88r.",
+     "car": "Falcon F7 '12",
+     "position": 1,
+     "time": "15:17.169",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "daniel_350z",
+     "car": "Lambo Gallardo LP 550-2 Spyder '11",
+     "position": 2,
+     "time": "15:20.607",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "Hashy",
+     "car": "Camaro V6 '12",
+     "position": 3,
+     "time": "17:07.625",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "king_lambo999",
+     "car": "Panoz Abruzzi '10",
+     "position": null,
+     "time": "DNF",
+     "dnf": true,
+     "points": 0,
+     "dnf_reason": "crash after a half-spin",
+     "dnf_lap": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "88r.",
+    "time": "2:26.422",
+    "lap": 1
+   }
+  },
+  {
+   "title": "Group 2 · Pick 4 · Race 4: Nordschleife",
+   "slug": "s11-g2-p4-r4-nordschleife",
+   "date": "2026-11-13",
+   "group": "g2",
+   "race_no": 4,
+   "pick": 4,
+   "venue": "nordschleife",
+   "image": "s11-g2-p4-r4-nordschleife",
+   "type": "Circuit · 3 laps",
+   "weather": "Overcast",
+   "seed": 21659489,
+   "track": "Nürburgring Nordschleife, Germany · 20.832 km",
+   "results": [
+    {
+     "player": "king_lambo999",
+     "car": "Panoz Abruzzi '10",
+     "position": 1,
+     "time": "24:21.398",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "88r.",
+     "car": "Falcon F7 '12",
+     "position": 2,
+     "time": "24:54.010",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "daniel_350z",
+     "car": "Lambo Gallardo LP 550-2 Spyder '11",
+     "position": 3,
+     "time": "25:16.509",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "Hashy",
+     "car": "Camaro V6 '12",
+     "position": 4,
+     "time": "28:06.361",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "king_lambo999",
+    "time": "7:48.143",
+    "lap": 2
+   }
   }
  ],
  "test_season": false,
@@ -4386,6 +4602,22 @@
     "name": "No car",
     "pick": 4,
     "dns": true
+   },
+   "88r.": {
+    "name": "Falcon F7 '12",
+    "pick": 4
+   },
+   "king_lambo999": {
+    "name": "Panoz Abruzzi '10",
+    "pick": 4
+   },
+   "daniel_350z": {
+    "name": "Lambo Gallardo LP 550-2 Spyder '11",
+    "pick": 4
+   },
+   "Hashy": {
+    "name": "Camaro V6 '12",
+    "pick": 4
    }
   }
  }
