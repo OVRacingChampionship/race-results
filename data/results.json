@@ -35,20 +35,20 @@
    "note": "No Pick 2, 3 or 4 car (DNS)"
   },
   "88r.": {
-   "name": "Bristol Fighter '04",
-   "pick": 2
+   "name": "Exotic Rides W70 '15",
+   "pick": 3
   },
   "king_lambo999": {
-   "name": "Nissan 350Z Veilside '03",
-   "pick": 2
+   "name": "Ferrari 599 SA Aperta '10",
+   "pick": 3
   },
   "daniel_350z": {
-   "name": "Bristol Fighter '04",
-   "pick": 2
+   "name": "Corvette C7 Convertible '14",
+   "pick": 3
   },
   "Hashy": {
-   "name": "Camaro V6 '01",
-   "pick": 2
+   "name": "Mustang V6 '11",
+   "pick": 3
   },
   "chiefkeefgod": {
    "name": "Gemballa Tornado GTS 750 '09",
@@ -3879,6 +3879,222 @@
     "time": "2:36.951",
     "lap": 1
    }
+  },
+  {
+   "title": "Group 2 · Pick 3 · Race 1: Marina Bay",
+   "slug": "s11-g2-p3-r1-marina-bay",
+   "date": "2026-11-13",
+   "group": "g2",
+   "race_no": 1,
+   "pick": 3,
+   "venue": "marina_bay",
+   "image": "s11-g2-p3-r1-marina-bay",
+   "type": "Street circuit · 6 laps",
+   "weather": "Overcast",
+   "seed": 11500220,
+   "track": "Marina Bay Street Circuit, Singapore · 4.927 km",
+   "results": [
+    {
+     "player": "88r.",
+     "car": "Exotic Rides W70 '15",
+     "position": 1,
+     "time": "16:04.700",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "daniel_350z",
+     "car": "Corvette C7 Convertible '14",
+     "position": 2,
+     "time": "16:41.536",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "king_lambo999",
+     "car": "Ferrari 599 SA Aperta '10",
+     "position": 3,
+     "time": "16:43.181",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "Hashy",
+     "car": "Mustang V6 '11",
+     "position": 4,
+     "time": "18:41.821",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "88r.",
+    "time": "2:33.865",
+    "lap": 3
+   }
+  },
+  {
+   "title": "Group 2 · Pick 3 · Race 2: Long Beach",
+   "slug": "s11-g2-p3-r2-long-beach",
+   "date": "2026-11-13",
+   "group": "g2",
+   "race_no": 2,
+   "pick": 3,
+   "venue": "long_beach",
+   "image": "s11-g2-p3-r2-long-beach",
+   "type": "Street circuit · 9 laps",
+   "weather": "Thunderstorm",
+   "seed": 57581156,
+   "track": "Long Beach Street Circuit, USA · 3.167 km",
+   "results": [
+    {
+     "player": "king_lambo999",
+     "car": "Ferrari 599 SA Aperta '10",
+     "position": 1,
+     "time": "18:56.434",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "88r.",
+     "car": "Exotic Rides W70 '15",
+     "position": 2,
+     "time": "18:57.463",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "daniel_350z",
+     "car": "Corvette C7 Convertible '14",
+     "position": 3,
+     "time": "19:54.871",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "Hashy",
+     "car": "Mustang V6 '11",
+     "position": 4,
+     "time": "19:03.088",
+     "dnf": false,
+     "points": 4,
+     "laps": 8,
+     "gap": "+1 lap"
+    }
+   ],
+   "fastest_lap": {
+    "player": "88r.",
+    "time": "1:40.401",
+    "lap": 2
+   }
+  },
+  {
+   "title": "Group 2 · Pick 3 · Race 3: COTA",
+   "slug": "s11-g2-p3-r3-cota",
+   "date": "2026-11-13",
+   "group": "g2",
+   "race_no": 3,
+   "pick": 3,
+   "venue": "cota",
+   "image": "s11-g2-p3-r3-cota",
+   "type": "Circuit · 5 laps",
+   "weather": "Hot",
+   "seed": 31071061,
+   "track": "Circuit of the Americas, USA · 5.513 km",
+   "results": [
+    {
+     "player": "king_lambo999",
+     "car": "Ferrari 599 SA Aperta '10",
+     "position": 1,
+     "time": "13:07.055",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "88r.",
+     "car": "Exotic Rides W70 '15",
+     "position": 2,
+     "time": "13:15.939",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "daniel_350z",
+     "car": "Corvette C7 Convertible '14",
+     "position": 3,
+     "time": "14:00.404",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "Hashy",
+     "car": "Mustang V6 '11",
+     "position": 4,
+     "time": "15:28.960",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "king_lambo999",
+    "time": "2:31.325",
+    "lap": 5
+   }
+  },
+  {
+   "title": "Group 2 · Pick 3 · Race 4: Suzuka",
+   "slug": "s11-g2-p3-r4-suzuka",
+   "date": "2026-11-13",
+   "group": "g2",
+   "race_no": 4,
+   "pick": 3,
+   "venue": "suzuka",
+   "image": "s11-g2-p3-r4-suzuka",
+   "type": "Circuit · 5 laps",
+   "weather": "Cold",
+   "seed": 39014255,
+   "track": "Suzuka International Racing Course, Japan · 5.807 km",
+   "results": [
+    {
+     "player": "king_lambo999",
+     "car": "Ferrari 599 SA Aperta '10",
+     "position": 1,
+     "time": "13:03.561",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "daniel_350z",
+     "car": "Corvette C7 Convertible '14",
+     "position": 2,
+     "time": "13:35.326",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "Hashy",
+     "car": "Mustang V6 '11",
+     "position": 3,
+     "time": "15:24.296",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "88r.",
+     "car": "Exotic Rides W70 '15",
+     "position": null,
+     "time": "DNF",
+     "dnf": true,
+     "points": 0,
+     "dnf_reason": "half-spun at Spoon in the wet and slid into the barrier",
+     "dnf_lap": 5
+    }
+   ],
+   "fastest_lap": {
+    "player": "king_lambo999",
+    "time": "2:30.287",
+    "lap": 3
+   }
   }
  ],
  "test_season": false,
@@ -4135,6 +4351,22 @@
     "name": "No car",
     "pick": 3,
     "dns": true
+   },
+   "88r.": {
+    "name": "Exotic Rides W70 '15",
+    "pick": 3
+   },
+   "king_lambo999": {
+    "name": "Ferrari 599 SA Aperta '10",
+    "pick": 3
+   },
+   "daniel_350z": {
+    "name": "Corvette C7 Convertible '14",
+    "pick": 3
+   },
+   "Hashy": {
+    "name": "Mustang V6 '11",
+    "pick": 3
    }
   },
   "4": {
