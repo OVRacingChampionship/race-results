@@ -18,21 +18,21 @@
  "points_note": "Group rounds: 1st 10, 2nd 8, 3rd 6, 4th 4. A DNF scores 0.",
  "entries": {
   "biometric_human": {
-   "name": "Bristol Fighter '04",
-   "pick": 2
+   "name": "Audi RS6 DTM Stertman/Caresto '15",
+   "pick": 3
   },
   "_baron_98": {
-   "name": "Vauxhall Monaro VXR500 '06",
-   "pick": 2
+   "name": "Gemballa GTP 720 '10",
+   "pick": 3
   },
   "thefoxywolfy": {
-   "name": "Maserati GranSport MC Victory '06",
-   "pick": 2
+   "name": "Aston Martin DB11 '16",
+   "pick": 3
   },
   "velocevelocevelo": {
    "name": "Audi TT Mk2 '06",
    "pick": 1,
-   "note": "No Pick 2 car (DNS)"
+   "note": "No Pick 2 or Pick 3 car (DNS)"
   },
   "88r.": {
    "name": "Bristol Fighter '04",
@@ -3431,6 +3431,234 @@
     "time": "2:19.996",
     "lap": 7
    }
+  },
+  {
+   "title": "Group 1 · Pick 3 · Race 1: Nordschleife",
+   "slug": "s11-g1-p3-r1-nordschleife",
+   "date": "2026-11-13",
+   "group": "g1",
+   "race_no": 1,
+   "pick": 3,
+   "venue": "nordschleife",
+   "image": "s11-g1-p3-r1-nordschleife",
+   "type": "Circuit · 3 laps",
+   "weather": "Clear and dry",
+   "seed": 94317759,
+   "track": "Nürburgring Nordschleife, Germany · 20.832 km",
+   "results": [
+    {
+     "player": "biometric_human",
+     "car": "Audi RS6 DTM Stertman/Caresto '15",
+     "position": 1,
+     "time": "23:17.569",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "_baron_98",
+     "car": "Gemballa GTP 720 '10",
+     "position": 2,
+     "time": "24:01.391",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "thefoxywolfy",
+     "car": "Aston Martin DB11 '16",
+     "position": 3,
+     "time": "24:09.120",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "velocevelocevelo",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 3 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "biometric_human",
+    "time": "7:42.179",
+    "lap": 1
+   }
+  },
+  {
+   "title": "Group 1 · Pick 3 · Race 2: Indianapolis",
+   "slug": "s11-g1-p3-r2-indianapolis",
+   "date": "2026-11-13",
+   "group": "g1",
+   "race_no": 2,
+   "pick": 3,
+   "venue": "indianapolis",
+   "image": "s11-g1-p3-r2-indianapolis",
+   "type": "Oval · 10 laps",
+   "weather": "Windy",
+   "seed": 72844945,
+   "track": "Indianapolis Motor Speedway (oval), USA · 4.023 km",
+   "results": [
+    {
+     "player": "_baron_98",
+     "car": "Gemballa GTP 720 '10",
+     "position": 1,
+     "time": "10:38.873",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "thefoxywolfy",
+     "car": "Aston Martin DB11 '16",
+     "position": 2,
+     "time": "10:43.917",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "biometric_human",
+     "car": "Audi RS6 DTM Stertman/Caresto '15",
+     "position": 3,
+     "time": "10:49.888",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "velocevelocevelo",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 3 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "_baron_98",
+    "time": "1:02.620",
+    "lap": 9
+   }
+  },
+  {
+   "title": "Group 1 · Pick 3 · Race 3: Watkins Glen",
+   "slug": "s11-g1-p3-r3-watkins-glen",
+   "date": "2026-11-13",
+   "group": "g1",
+   "race_no": 3,
+   "pick": 3,
+   "venue": "watkins_glen",
+   "image": "s11-g1-p3-r3-watkins-glen",
+   "type": "Circuit · 5 laps",
+   "weather": "Overcast",
+   "seed": 69848860,
+   "track": "Watkins Glen International, USA · 5.552 km",
+   "results": [
+    {
+     "player": "biometric_human",
+     "car": "Audi RS6 DTM Stertman/Caresto '15",
+     "position": 1,
+     "time": "10:40.857",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "_baron_98",
+     "car": "Gemballa GTP 720 '10",
+     "position": 2,
+     "time": "10:50.814",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "thefoxywolfy",
+     "car": "Aston Martin DB11 '16",
+     "position": 3,
+     "time": "11:00.445",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "velocevelocevelo",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 3 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "biometric_human",
+    "time": "2:01.391",
+    "lap": 2
+   }
+  },
+  {
+   "title": "Group 1 · Pick 3 · Race 4: Col de Turini",
+   "slug": "s11-g1-p3-r4-col-de-turini",
+   "date": "2026-11-13",
+   "group": "g1",
+   "race_no": 4,
+   "pick": 3,
+   "venue": "col_de_turini",
+   "image": "s11-g1-p3-r4-col-de-turini",
+   "type": "Rally stage · 31.0 km",
+   "weather": "Heavy blizzard",
+   "seed": 96199513,
+   "track": "Col de Turini (Rallye Monte-Carlo), France · 31.0 km stage",
+   "results": [
+    {
+     "player": "_baron_98",
+     "car": "Gemballa GTP 720 '10",
+     "position": 1,
+     "time": "46:08.392",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "thefoxywolfy",
+     "car": "Aston Martin DB11 '16",
+     "position": 2,
+     "time": "57:54.697",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "biometric_human",
+     "car": "Audi RS6 DTM Stertman/Caresto '15",
+     "position": null,
+     "time": "DNF",
+     "dnf": true,
+     "points": 0,
+     "dnf_reason": "stuck in a snowbank near the summit",
+     "dnf_split": 3
+    },
+    {
+     "player": "velocevelocevelo",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 3 car)",
+     "points": 0
+    }
+   ],
+   "format": "rally stage: one car at a time, 1-minute intervals, 3 splits + finish",
+   "start_order": [
+    "thefoxywolfy",
+    "biometric_human",
+    "_baron_98"
+   ],
+   "fastest_split": {
+    "player": "_baron_98",
+    "time": "9:53.377",
+    "split": 2
+   }
   }
  ],
  "test_season": false,
@@ -3668,6 +3896,25 @@
    "zehnx1006": {
     "name": "Proton Satria R3 '04",
     "pick": 2
+   }
+  },
+  "3": {
+   "biometric_human": {
+    "name": "Audi RS6 DTM Stertman/Caresto '15",
+    "pick": 3
+   },
+   "_baron_98": {
+    "name": "Gemballa GTP 720 '10",
+    "pick": 3
+   },
+   "thefoxywolfy": {
+    "name": "Aston Martin DB11 '16",
+    "pick": 3
+   },
+   "velocevelocevelo": {
+    "name": "No car",
+    "pick": 3,
+    "dns": true
    }
   }
  }
