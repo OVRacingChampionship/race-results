@@ -18,21 +18,21 @@
  "points_note": "Group rounds: 1st 10, 2nd 8, 3rd 6, 4th 4. A DNF scores 0.",
  "entries": {
   "biometric_human": {
-   "name": "Audi RS6 DTM Stertman/Caresto '15",
-   "pick": 3
+   "name": "Tramontana R-Edition '13",
+   "pick": 4
   },
   "_baron_98": {
-   "name": "Gemballa GTP 720 '10",
-   "pick": 3
+   "name": "Lambo Aventador Roadster '12",
+   "pick": 4
   },
   "thefoxywolfy": {
-   "name": "Aston Martin DB11 '16",
-   "pick": 3
+   "name": "Novitec Ferrari GTC4Lusso '16",
+   "pick": 4
   },
   "velocevelocevelo": {
    "name": "Audi TT Mk2 '06",
    "pick": 1,
-   "note": "No Pick 2 or Pick 3 car (DNS)"
+   "note": "No Pick 2, 3 or 4 car (DNS)"
   },
   "88r.": {
    "name": "Bristol Fighter '04",
@@ -3659,6 +3659,226 @@
     "time": "9:53.377",
     "split": 2
    }
+  },
+  {
+   "title": "Group 1 · Pick 4 · Race 1: Monaco",
+   "slug": "s11-g1-p4-r1-monaco",
+   "date": "2026-11-13",
+   "group": "g1",
+   "race_no": 1,
+   "pick": 4,
+   "venue": "monaco",
+   "image": "s11-g1-p4-r1-monaco",
+   "type": "Street circuit · 9 laps",
+   "weather": "Heavy blizzard",
+   "seed": 65265722,
+   "track": "Circuit de Monaco, Monaco · 3.337 km",
+   "results": [
+    {
+     "player": "_baron_98",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 1,
+     "time": "28:17.855",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "thefoxywolfy",
+     "car": "Novitec Ferrari GTC4Lusso '16",
+     "position": 2,
+     "time": "32:54.617",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "biometric_human",
+     "car": "Tramontana R-Edition '13",
+     "position": 3,
+     "time": "33:01.311",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "velocevelocevelo",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 4 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "_baron_98",
+    "time": "2:06.914",
+    "lap": 2
+   }
+  },
+  {
+   "title": "Group 1 · Pick 4 · Race 2: Zandvoort",
+   "slug": "s11-g1-p4-r2-zandvoort",
+   "date": "2026-11-13",
+   "group": "g1",
+   "race_no": 2,
+   "pick": 4,
+   "venue": "zandvoort",
+   "image": "s11-g1-p4-r2-zandvoort",
+   "type": "Circuit · 7 laps",
+   "weather": "Drying track",
+   "seed": 21384512,
+   "track": "Circuit Zandvoort, Netherlands · 4.259 km",
+   "results": [
+    {
+     "player": "biometric_human",
+     "car": "Tramontana R-Edition '13",
+     "position": 1,
+     "time": "13:25.394",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "_baron_98",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 2,
+     "time": "13:36.825",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "thefoxywolfy",
+     "car": "Novitec Ferrari GTC4Lusso '16",
+     "position": 3,
+     "time": "14:31.039",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "velocevelocevelo",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 4 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "biometric_human",
+    "time": "1:52.546",
+    "lap": 7
+   }
+  },
+  {
+   "title": "Group 1 · Pick 4 · Race 3: COTA",
+   "slug": "s11-g1-p4-r3-cota",
+   "date": "2026-11-13",
+   "group": "g1",
+   "race_no": 3,
+   "pick": 4,
+   "venue": "cota",
+   "image": "s11-g1-p4-r3-cota",
+   "type": "Circuit · 5 laps",
+   "weather": "Overcast",
+   "seed": 69467788,
+   "track": "Circuit of the Americas, USA · 5.513 km",
+   "results": [
+    {
+     "player": "_baron_98",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 1,
+     "time": "13:22.219",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "biometric_human",
+     "car": "Tramontana R-Edition '13",
+     "position": 2,
+     "time": "13:34.095",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "thefoxywolfy",
+     "car": "Novitec Ferrari GTC4Lusso '16",
+     "position": 3,
+     "time": "14:19.892",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "velocevelocevelo",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 4 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "biometric_human",
+    "time": "2:33.868",
+    "lap": 3
+   }
+  },
+  {
+   "title": "Group 1 · Pick 4 · Race 4: Baku",
+   "slug": "s11-g1-p4-r4-baku",
+   "date": "2026-11-13",
+   "group": "g1",
+   "race_no": 4,
+   "pick": 4,
+   "venue": "baku",
+   "image": "s11-g1-p4-r4-baku",
+   "type": "Street circuit · 5 laps",
+   "weather": "Clear and dry",
+   "seed": 48143167,
+   "track": "Baku City Circuit, Azerbaijan · 6.003 km",
+   "results": [
+    {
+     "player": "biometric_human",
+     "car": "Tramontana R-Edition '13",
+     "position": 1,
+     "time": "13:20.803",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "_baron_98",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 2,
+     "time": "13:39.348",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "thefoxywolfy",
+     "car": "Novitec Ferrari GTC4Lusso '16",
+     "position": 3,
+     "time": "14:10.668",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "velocevelocevelo",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 4 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "biometric_human",
+    "time": "2:36.951",
+    "lap": 1
+   }
   }
  ],
  "test_season": false,
@@ -3914,6 +4134,25 @@
    "velocevelocevelo": {
     "name": "No car",
     "pick": 3,
+    "dns": true
+   }
+  },
+  "4": {
+   "biometric_human": {
+    "name": "Tramontana R-Edition '13",
+    "pick": 4
+   },
+   "_baron_98": {
+    "name": "Lambo Aventador Roadster '12",
+    "pick": 4
+   },
+   "thefoxywolfy": {
+    "name": "Novitec Ferrari GTC4Lusso '16",
+    "pick": 4
+   },
+   "velocevelocevelo": {
+    "name": "No car",
+    "pick": 4,
     "dns": true
    }
   }
