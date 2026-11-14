@@ -84,20 +84,20 @@
    "pick": 4
   },
   "tarafiiee": {
-   "name": "Mercedes SL65 AMG (R230) '04",
-   "pick": 2
+   "name": "Lambo Aventador Roadster '12",
+   "pick": 3
   },
   "chromeme": {
-   "name": "Bristol Fighter '04",
-   "pick": 2
+   "name": "M-Tech Mercedes E63 '18",
+   "pick": 3
   },
   "vince_the_1st": {
-   "name": "Jaguar XKR '09",
-   "pick": 2
+   "name": "BMW M5 30 Jahre '14",
+   "pick": 3
   },
   "notarashi": {
-   "name": "Porsche Panamera S (970) '09",
-   "pick": 2
+   "name": "Corvette C7 Convertible '14",
+   "pick": 3
   },
   "khalish_d": {
    "name": "Porsche 911 (996) 40 Jahre '03",
@@ -5205,6 +5205,227 @@
     "time": "2:15.758",
     "lap": 3
    }
+  },
+  {
+   "title": "Group 5 · Pick 3 · Race 1: Indianapolis",
+   "slug": "s11-g5-p3-r1-indianapolis",
+   "date": "2026-11-14",
+   "group": "g5",
+   "race_no": 1,
+   "pick": 3,
+   "venue": "indianapolis",
+   "image": "s11-g5-p3-r1-indianapolis",
+   "type": "Oval · 10 laps",
+   "weather": "Drying track",
+   "seed": 54595185,
+   "track": "Indianapolis Motor Speedway (oval), USA · 4.023 km",
+   "results": [
+    {
+     "player": "tarafiiee",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 1,
+     "time": "10:37.302",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "chromeme",
+     "car": "M-Tech Mercedes E63 '18",
+     "position": 2,
+     "time": "10:52.942",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "vince_the_1st",
+     "car": "BMW M5 30 Jahre '14",
+     "position": 3,
+     "time": "11:03.257",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "notarashi",
+     "car": "Corvette C7 Convertible '14",
+     "position": 4,
+     "time": "11:09.697",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "tarafiiee",
+    "time": "1:02.219",
+    "lap": 8
+   }
+  },
+  {
+   "title": "Group 5 · Pick 3 · Race 2: Ouninpohja",
+   "slug": "s11-g5-p3-r2-ouninpohja",
+   "date": "2026-11-14",
+   "group": "g5",
+   "race_no": 2,
+   "pick": 3,
+   "venue": "ouninpohja",
+   "image": "s11-g5-p3-r2-ouninpohja",
+   "type": "Rally stage · 33.0 km",
+   "weather": "Thunderstorm",
+   "seed": 39709216,
+   "track": "Ouninpohja (Rally Finland), Finland · 33.0 km stage",
+   "results": [
+    {
+     "player": "chromeme",
+     "car": "M-Tech Mercedes E63 '18",
+     "position": 1,
+     "time": "29:28.477",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "vince_the_1st",
+     "car": "BMW M5 30 Jahre '14",
+     "position": 2,
+     "time": "31:25.268",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "notarashi",
+     "car": "Corvette C7 Convertible '14",
+     "position": 3,
+     "time": "32:54.688",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "tarafiiee",
+     "car": "Lambo Aventador Roadster '12",
+     "position": null,
+     "time": "DNF",
+     "dnf": true,
+     "points": 0,
+     "dnf_reason": "crash after a full spin in the lakeside section",
+     "dnf_split": 3
+    }
+   ],
+   "format": "rally stage: one car at a time, 1-minute intervals, 3 splits + finish",
+   "start_order": [
+    "chromeme",
+    "vince_the_1st",
+    "notarashi",
+    "tarafiiee"
+   ],
+   "fastest_split": {
+    "player": "tarafiiee",
+    "time": "6:43.326",
+    "split": 2
+   }
+  },
+  {
+   "title": "Group 5 · Pick 3 · Race 3: Road America",
+   "slug": "s11-g5-p3-r3-road-america",
+   "date": "2026-11-14",
+   "group": "g5",
+   "race_no": 3,
+   "pick": 3,
+   "venue": "road_america",
+   "image": "s11-g5-p3-r3-road-america",
+   "type": "Circuit · 5 laps",
+   "weather": "Heavy blizzard",
+   "seed": 59613872,
+   "track": "Road America, USA · 6.515 km",
+   "results": [
+    {
+     "player": "tarafiiee",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 1,
+     "time": "17:35.267",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "chromeme",
+     "car": "M-Tech Mercedes E63 '18",
+     "position": 2,
+     "time": "18:01.001",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "vince_the_1st",
+     "car": "BMW M5 30 Jahre '14",
+     "position": 3,
+     "time": "18:55.362",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "notarashi",
+     "car": "Corvette C7 Convertible '14",
+     "position": 4,
+     "time": "19:38.537",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "vince_the_1st",
+    "time": "2:40.401",
+    "lap": 1
+   }
+  },
+  {
+   "title": "Group 5 · Pick 3 · Race 4: Spa",
+   "slug": "s11-g5-p3-r4-spa",
+   "date": "2026-11-14",
+   "group": "g5",
+   "race_no": 4,
+   "pick": 3,
+   "venue": "spa",
+   "image": "s11-g5-p3-r4-spa",
+   "type": "Circuit · 4 laps",
+   "weather": "Windy",
+   "seed": 98989688,
+   "track": "Circuit de Spa-Francorchamps, Belgium · 7.004 km",
+   "results": [
+    {
+     "player": "chromeme",
+     "car": "M-Tech Mercedes E63 '18",
+     "position": 1,
+     "time": "11:13.854",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "tarafiiee",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 2,
+     "time": "11:31.913",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "vince_the_1st",
+     "car": "BMW M5 30 Jahre '14",
+     "position": 3,
+     "time": "12:04.577",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "notarashi",
+     "car": "Corvette C7 Convertible '14",
+     "position": 4,
+     "time": "12:04.714",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "chromeme",
+    "time": "2:45.367",
+    "lap": 4
+   }
   }
  ],
  "test_season": false,
@@ -5509,6 +5730,22 @@
    },
    "pagani504": {
     "name": "DDR Grullón GT8SS GP '11",
+    "pick": 3
+   },
+   "tarafiiee": {
+    "name": "Lambo Aventador Roadster '12",
+    "pick": 3
+   },
+   "chromeme": {
+    "name": "M-Tech Mercedes E63 '18",
+    "pick": 3
+   },
+   "vince_the_1st": {
+    "name": "BMW M5 30 Jahre '14",
+    "pick": 3
+   },
+   "notarashi": {
+    "name": "Corvette C7 Convertible '14",
     "pick": 3
    }
   },
