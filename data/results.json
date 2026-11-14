@@ -51,20 +51,21 @@
    "pick": 4
   },
   "chiefkeefgod": {
-   "name": "Gemballa Tornado GTS 750 '09",
-   "pick": 2
+   "name": "Hennessey Viper Venom 700R '12",
+   "pick": 3
   },
   "felix_08131": {
-   "name": "Vauxhall Monaro VXR500 '06",
-   "pick": 2
+   "name": "Lambo Aventador Roadster '12",
+   "pick": 3
   },
   ".arei.": {
-   "name": "Porsche Cayenne Turbo S (955) '06",
-   "pick": 2
+   "name": "Bentley Continental GT Conv. '20",
+   "pick": 3
   },
   "2svj.": {
    "name": "Mercedes E63 AMG (W212) '09",
-   "pick": 2
+   "pick": 2,
+   "note": "No Pick 3 or 4 car (DNS)"
   },
   "encore_mk1": {
    "name": "Bristol Fighter '04",
@@ -4311,6 +4312,232 @@
     "time": "7:48.143",
     "lap": 2
    }
+  },
+  {
+   "title": "Group 3 · Pick 3 · Race 1: Suzuka",
+   "slug": "s11-g3-p3-r1-suzuka",
+   "date": "2026-11-13",
+   "group": "g3",
+   "race_no": 1,
+   "pick": 3,
+   "venue": "suzuka",
+   "image": "s11-g3-p3-r1-suzuka",
+   "type": "Circuit · 5 laps",
+   "weather": "Thunderstorm",
+   "seed": 12804113,
+   "track": "Suzuka International Racing Course, Japan · 5.807 km",
+   "results": [
+    {
+     "player": "felix_08131",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 1,
+     "time": "14:23.144",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "chiefkeefgod",
+     "car": "Hennessey Viper Venom 700R '12",
+     "position": 2,
+     "time": "14:56.394",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": ".arei.",
+     "car": "Bentley Continental GT Conv. '20",
+     "position": 3,
+     "time": "15:02.454",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "2svj.",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 3 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "chiefkeefgod",
+    "time": "2:32.737",
+    "lap": 2
+   }
+  },
+  {
+   "title": "Group 3 · Pick 3 · Race 2: Sweet Lamb Hafren",
+   "slug": "s11-g3-p3-r2-sweet-lamb",
+   "date": "2026-11-13",
+   "group": "g3",
+   "race_no": 2,
+   "pick": 3,
+   "venue": "sweet_lamb",
+   "image": "s11-g3-p3-r2-sweet-lamb",
+   "type": "Rally stage · 25.6 km",
+   "weather": "Heavy rain",
+   "seed": 13099961,
+   "track": "Sweet Lamb Hafren (Wales Rally GB), UK · 25.6 km stage",
+   "results": [
+    {
+     "player": "felix_08131",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 1,
+     "time": "25:32.977",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "chiefkeefgod",
+     "car": "Hennessey Viper Venom 700R '12",
+     "position": 2,
+     "time": "28:13.749",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": ".arei.",
+     "car": "Bentley Continental GT Conv. '20",
+     "position": 3,
+     "time": "28:20.471",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "2svj.",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 3 car)",
+     "points": 0
+    }
+   ],
+   "format": "rally stage: one car at a time, 1-minute intervals, 2 splits + finish",
+   "start_order": [
+    "chiefkeefgod",
+    ".arei.",
+    "felix_08131"
+   ],
+   "fastest_split": {
+    "player": "felix_08131",
+    "time": "8:14.010",
+    "split": 1
+   }
+  },
+  {
+   "title": "Group 3 · Pick 3 · Race 3: Long Beach",
+   "slug": "s11-g3-p3-r3-long-beach",
+   "date": "2026-11-13",
+   "group": "g3",
+   "race_no": 3,
+   "pick": 3,
+   "venue": "long_beach",
+   "image": "s11-g3-p3-r3-long-beach",
+   "type": "Street circuit · 9 laps",
+   "weather": "Extreme heat",
+   "seed": 47500054,
+   "track": "Long Beach Street Circuit, USA · 3.167 km",
+   "results": [
+    {
+     "player": "chiefkeefgod",
+     "car": "Hennessey Viper Venom 700R '12",
+     "position": 1,
+     "time": "15:04.578",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "felix_08131",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 2,
+     "time": "15:45.061",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": ".arei.",
+     "car": "Bentley Continental GT Conv. '20",
+     "position": 3,
+     "time": "16:07.754",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "2svj.",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 3 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "chiefkeefgod",
+    "time": "1:37.291",
+    "lap": 8
+   }
+  },
+  {
+   "title": "Group 3 · Pick 3 · Race 4: Fuji",
+   "slug": "s11-g3-p3-r4-fuji",
+   "date": "2026-11-13",
+   "group": "g3",
+   "race_no": 4,
+   "pick": 3,
+   "venue": "fuji",
+   "image": "s11-g3-p3-r4-fuji",
+   "type": "Circuit · 7 laps",
+   "weather": "Clear and dry",
+   "seed": 94413895,
+   "track": "Fuji Speedway, Japan · 4.563 km",
+   "results": [
+    {
+     "player": "chiefkeefgod",
+     "car": "Hennessey Viper Venom 700R '12",
+     "position": 1,
+     "time": "14:33.880",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "felix_08131",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 2,
+     "time": "14:59.355",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": ".arei.",
+     "car": "Bentley Continental GT Conv. '20",
+     "position": 3,
+     "time": "16:13.631",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "2svj.",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 3 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "chiefkeefgod",
+    "time": "2:00.816",
+    "lap": 3
+   }
   }
  ],
  "test_season": false,
@@ -4583,6 +4810,23 @@
    "Hashy": {
     "name": "Mustang V6 '11",
     "pick": 3
+   },
+   "chiefkeefgod": {
+    "name": "Hennessey Viper Venom 700R '12",
+    "pick": 3
+   },
+   "felix_08131": {
+    "name": "Lambo Aventador Roadster '12",
+    "pick": 3
+   },
+   ".arei.": {
+    "name": "Bentley Continental GT Conv. '20",
+    "pick": 3
+   },
+   "2svj.": {
+    "name": "No car",
+    "pick": 3,
+    "dns": true
    }
   },
   "4": {
