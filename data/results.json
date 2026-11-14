@@ -51,21 +51,21 @@
    "pick": 4
   },
   "chiefkeefgod": {
-   "name": "Hennessey Viper Venom 700R '12",
-   "pick": 3
+   "name": "Lambo Aventador LP 700-4 Pirelli Roadster '15",
+   "pick": 4
   },
   "felix_08131": {
-   "name": "Lambo Aventador Roadster '12",
-   "pick": 3
+   "name": "Ferrari 599 SA Aperta '10",
+   "pick": 4
   },
   ".arei.": {
-   "name": "Bentley Continental GT Conv. '20",
-   "pick": 3
+   "name": "Lambo Urus '19",
+   "pick": 4
   },
   "2svj.": {
    "name": "Mercedes E63 AMG (W212) '09",
    "pick": 2,
-   "note": "No Pick 3 or 4 car (DNS)"
+   "note": "No Pick 4 or 4 car (DNS)"
   },
   "encore_mk1": {
    "name": "Bristol Fighter '04",
@@ -4538,6 +4538,232 @@
     "time": "2:00.816",
     "lap": 3
    }
+  },
+  {
+   "title": "Group 3 · Pick 4 · Race 1: Monaco",
+   "slug": "s11-g3-p4-r1-monaco",
+   "date": "2026-11-13",
+   "group": "g3",
+   "race_no": 1,
+   "pick": 4,
+   "venue": "monaco",
+   "image": "s11-g3-p4-r1-monaco",
+   "type": "Street circuit · 9 laps",
+   "weather": "Extreme heat",
+   "seed": 49042482,
+   "track": "Circuit de Monaco, Monaco · 3.337 km",
+   "results": [
+    {
+     "player": "felix_08131",
+     "car": "Ferrari 599 SA Aperta '10",
+     "position": 1,
+     "time": "19:06.951",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "chiefkeefgod",
+     "car": "Lambo Aventador LP 700-4 Pirelli Roadster '15",
+     "position": 2,
+     "time": "19:25.539",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": ".arei.",
+     "car": "Lambo Urus '19",
+     "position": 3,
+     "time": "19:45.595",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "2svj.",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 4 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "chiefkeefgod",
+    "time": "2:02.363",
+    "lap": 9
+   }
+  },
+  {
+   "title": "Group 3 · Pick 4 · Race 2: Zandvoort",
+   "slug": "s11-g3-p4-r2-zandvoort",
+   "date": "2026-11-13",
+   "group": "g3",
+   "race_no": 2,
+   "pick": 4,
+   "venue": "zandvoort",
+   "image": "s11-g3-p4-r2-zandvoort",
+   "type": "Circuit · 7 laps",
+   "weather": "Drying track",
+   "seed": 60524387,
+   "track": "Circuit Zandvoort, Netherlands · 4.259 km",
+   "results": [
+    {
+     "player": "chiefkeefgod",
+     "car": "Lambo Aventador LP 700-4 Pirelli Roadster '15",
+     "position": 1,
+     "time": "13:54.447",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "felix_08131",
+     "car": "Ferrari 599 SA Aperta '10",
+     "position": 2,
+     "time": "14:30.681",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": ".arei.",
+     "car": "Lambo Urus '19",
+     "position": 3,
+     "time": "14:49.221",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "2svj.",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 4 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "chiefkeefgod",
+    "time": "1:57.212",
+    "lap": 6
+   }
+  },
+  {
+   "title": "Group 3 · Pick 4 · Race 3: COTA",
+   "slug": "s11-g3-p4-r3-cota",
+   "date": "2026-11-13",
+   "group": "g3",
+   "race_no": 3,
+   "pick": 4,
+   "venue": "cota",
+   "image": "s11-g3-p4-r3-cota",
+   "type": "Circuit · 5 laps",
+   "weather": "Cold",
+   "seed": 65673509,
+   "track": "Circuit of the Americas, USA · 5.513 km",
+   "results": [
+    {
+     "player": "felix_08131",
+     "car": "Ferrari 599 SA Aperta '10",
+     "position": 1,
+     "time": "13:16.249",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "chiefkeefgod",
+     "car": "Lambo Aventador LP 700-4 Pirelli Roadster '15",
+     "position": 2,
+     "time": "13:16.592",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": ".arei.",
+     "car": "Lambo Urus '19",
+     "position": 3,
+     "time": "13:56.712",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "2svj.",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 4 car)",
+     "points": 0
+    }
+   ],
+   "fastest_lap": {
+    "player": "chiefkeefgod",
+    "time": "2:31.638",
+    "lap": 5
+   }
+  },
+  {
+   "title": "Group 3 · Pick 4 · Race 4: Ouninpohja",
+   "slug": "s11-g3-p4-r4-ouninpohja",
+   "date": "2026-11-13",
+   "group": "g3",
+   "race_no": 4,
+   "pick": 4,
+   "venue": "ouninpohja",
+   "image": "s11-g3-p4-r4-ouninpohja",
+   "type": "Rally stage · 33.0 km",
+   "weather": "Heavy rain",
+   "seed": 92514566,
+   "track": "Ouninpohja (Rally Finland), Finland · 33.0 km stage",
+   "results": [
+    {
+     "player": "chiefkeefgod",
+     "car": "Lambo Aventador LP 700-4 Pirelli Roadster '15",
+     "position": 1,
+     "time": "27:40.740",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": ".arei.",
+     "car": "Lambo Urus '19",
+     "position": 2,
+     "time": "28:48.859",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "felix_08131",
+     "car": "Ferrari 599 SA Aperta '10",
+     "position": 3,
+     "time": "30:18.504",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "2svj.",
+     "car": "No car",
+     "position": null,
+     "time": "DNS",
+     "dnf": true,
+     "dns": true,
+     "dnf_reason": "did not start (no Pick 4 car)",
+     "points": 0
+    }
+   ],
+   "format": "rally stage: one car at a time, 1-minute intervals, 3 splits + finish",
+   "start_order": [
+    "chiefkeefgod",
+    "felix_08131",
+    ".arei."
+   ],
+   "fastest_split": {
+    "player": "chiefkeefgod",
+    "time": "6:15.395",
+    "split": 1
+   }
   }
  ],
  "test_season": false,
@@ -4862,6 +5088,23 @@
    "Hashy": {
     "name": "Camaro V6 '12",
     "pick": 4
+   },
+   "chiefkeefgod": {
+    "name": "Lambo Aventador LP 700-4 Pirelli Roadster '15",
+    "pick": 4
+   },
+   "felix_08131": {
+    "name": "Ferrari 599 SA Aperta '10",
+    "pick": 4
+   },
+   ".arei.": {
+    "name": "Lambo Urus '19",
+    "pick": 4
+   },
+   "2svj.": {
+    "name": "No car",
+    "pick": 4,
+    "dns": true
    }
   }
  }
