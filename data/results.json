@@ -68,20 +68,20 @@
    "note": "No Pick 4 or 4 car (DNS)"
   },
   "encore_mk1": {
-   "name": "Gemballa GTP 720 '10",
-   "pick": 3
+   "name": "Lambo Aventador Roadster '12",
+   "pick": 4
   },
   "broisnthysilens": {
-   "name": "MNR VortX Hayabusa RT Plus '14",
-   "pick": 3
+   "name": "Lambo Aventador Roadster '12",
+   "pick": 4
   },
   "kia_forte": {
-   "name": "BMW M2 CS '20",
-   "pick": 3
+   "name": "Camaro ZL1 '12",
+   "pick": 4
   },
   "pagani504": {
-   "name": "DDR Grullón GT8SS GP '11",
-   "pick": 3
+   "name": "Porsche Panamera (970) '13",
+   "pick": 4
   },
   "tarafiiee": {
    "name": "Mercedes SL65 AMG (R230) '04",
@@ -4989,6 +4989,222 @@
     "time": "2:54.567",
     "lap": 2
    }
+  },
+  {
+   "title": "Group 4 · Pick 4 · Race 1: Marina Bay",
+   "slug": "s11-g4-p4-r1-marina-bay",
+   "date": "2026-11-14",
+   "group": "g4",
+   "race_no": 1,
+   "pick": 4,
+   "venue": "marina_bay",
+   "image": "s11-g4-p4-r1-marina-bay",
+   "type": "Street circuit · 6 laps",
+   "weather": "Thunderstorm",
+   "seed": 68529065,
+   "track": "Marina Bay Street Circuit, Singapore · 4.927 km",
+   "results": [
+    {
+     "player": "broisnthysilens",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 1,
+     "time": "18:12.141",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "encore_mk1",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 2,
+     "time": "18:24.463",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "kia_forte",
+     "car": "Camaro ZL1 '12",
+     "position": 3,
+     "time": "19:59.708",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "pagani504",
+     "car": "Porsche Panamera (970) '13",
+     "position": 4,
+     "time": "20:56.933",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "broisnthysilens",
+    "time": "2:33.436",
+    "lap": 2
+   }
+  },
+  {
+   "title": "Group 4 · Pick 4 · Race 2: Long Beach",
+   "slug": "s11-g4-p4-r2-long-beach",
+   "date": "2026-11-14",
+   "group": "g4",
+   "race_no": 2,
+   "pick": 4,
+   "venue": "long_beach",
+   "image": "s11-g4-p4-r2-long-beach",
+   "type": "Street circuit · 9 laps",
+   "weather": "Extreme heat",
+   "seed": 15684562,
+   "track": "Long Beach Street Circuit, USA · 3.167 km",
+   "results": [
+    {
+     "player": "broisnthysilens",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 1,
+     "time": "15:16.124",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "encore_mk1",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 2,
+     "time": "15:32.991",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "kia_forte",
+     "car": "Camaro ZL1 '12",
+     "position": 3,
+     "time": "16:52.043",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "pagani504",
+     "car": "Porsche Panamera (970) '13",
+     "position": 4,
+     "time": "16:19.848",
+     "dnf": false,
+     "points": 4,
+     "laps": 8,
+     "gap": "+1 lap"
+    }
+   ],
+   "fastest_lap": {
+    "player": "broisnthysilens",
+    "time": "1:38.693",
+    "lap": 9
+   }
+  },
+  {
+   "title": "Group 4 · Pick 4 · Race 3: Interlagos",
+   "slug": "s11-g4-p4-r3-interlagos",
+   "date": "2026-11-14",
+   "group": "g4",
+   "race_no": 3,
+   "pick": 4,
+   "venue": "interlagos",
+   "image": "s11-g4-p4-r3-interlagos",
+   "type": "Circuit · 7 laps",
+   "weather": "Cold",
+   "seed": 5655055,
+   "track": "Autódromo José Carlos Pace (Interlagos), Brazil · 4.309 km",
+   "results": [
+    {
+     "player": "broisnthysilens",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 1,
+     "time": "13:48.394",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "encore_mk1",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 2,
+     "time": "14:03.307",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "kia_forte",
+     "car": "Camaro ZL1 '12",
+     "position": 3,
+     "time": "14:45.404",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "pagani504",
+     "car": "Porsche Panamera (970) '13",
+     "position": 4,
+     "time": "14:03.989",
+     "dnf": false,
+     "points": 4,
+     "laps": 6,
+     "gap": "+1 lap"
+    }
+   ],
+   "fastest_lap": {
+    "player": "encore_mk1",
+    "time": "1:56.653",
+    "lap": 6
+   }
+  },
+  {
+   "title": "Group 4 · Pick 4 · Race 4: Bathurst",
+   "slug": "s11-g4-p4-r4-bathurst",
+   "date": "2026-11-14",
+   "group": "g4",
+   "race_no": 4,
+   "pick": 4,
+   "venue": "bathurst",
+   "image": "s11-g4-p4-r4-bathurst",
+   "type": "Circuit · 5 laps",
+   "weather": "Windy",
+   "seed": 4008744,
+   "track": "Mount Panorama Circuit, Bathurst, Australia · 6.213 km",
+   "results": [
+    {
+     "player": "encore_mk1",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 1,
+     "time": "11:45.403",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "broisnthysilens",
+     "car": "Lambo Aventador Roadster '12",
+     "position": 2,
+     "time": "12:16.530",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "kia_forte",
+     "car": "Camaro ZL1 '12",
+     "position": 3,
+     "time": "12:54.446",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "pagani504",
+     "car": "Porsche Panamera (970) '13",
+     "position": 4,
+     "time": "13:47.535",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "encore_mk1",
+    "time": "2:15.758",
+    "lap": 3
+   }
   }
  ],
  "test_season": false,
@@ -5346,6 +5562,22 @@
     "name": "No car",
     "pick": 4,
     "dns": true
+   },
+   "encore_mk1": {
+    "name": "Lambo Aventador Roadster '12",
+    "pick": 4
+   },
+   "broisnthysilens": {
+    "name": "Lambo Aventador Roadster '12",
+    "pick": 4
+   },
+   "kia_forte": {
+    "name": "Camaro ZL1 '12",
+    "pick": 4
+   },
+   "pagani504": {
+    "name": "Porsche Panamera (970) '13",
+    "pick": 4
    }
   }
  }
