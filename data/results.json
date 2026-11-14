@@ -101,20 +101,20 @@
    "note": "No Pick 4 car (DNS)"
   },
   "khalish_d": {
-   "name": "Porsche 911 (996) 40 Jahre '03",
-   "pick": 2
+   "name": "Hennessey Mustang GT HPE750 '15",
+   "pick": 3
   },
   "justanoobperson": {
-   "name": "Shelby GT500 KR 40th '08",
-   "pick": 2
+   "name": "BMW M3 CS (F80) '18",
+   "pick": 3
   },
   "vattu2223": {
-   "name": "Holden Monaro CV8-Z '05",
-   "pick": 2
+   "name": "BMW 128ti '20",
+   "pick": 3
   },
   "roberthloga": {
-   "name": "Subaru WRX Club Spec Evo 8 '04",
-   "pick": 2
+   "name": "Maserati GranCabrio \"Sand Job\" '11",
+   "pick": 3
   },
   "lacee5238": {
    "name": "Porsche 911 (996) 40 Jahre '03",
@@ -5653,6 +5653,222 @@
     "time": "9:11.661",
     "split": 1
    }
+  },
+  {
+   "title": "Group 6 · Pick 3 · Race 1: COTA",
+   "slug": "s11-g6-p3-r1-cota",
+   "date": "2026-11-14",
+   "group": "g6",
+   "race_no": 1,
+   "pick": 3,
+   "venue": "cota",
+   "image": "s11-g6-p3-r1-cota",
+   "type": "Circuit · 5 laps",
+   "weather": "Thunderstorm",
+   "seed": 58519636,
+   "track": "Circuit of the Americas, USA · 5.513 km",
+   "results": [
+    {
+     "player": "khalish_d",
+     "car": "Hennessey Mustang GT HPE750 '15",
+     "position": 1,
+     "time": "15:47.683",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "justanoobperson",
+     "car": "BMW M3 CS (F80) '18",
+     "position": 2,
+     "time": "17:43.472",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "roberthloga",
+     "car": "Maserati GranCabrio \"Sand Job\" '11",
+     "position": 3,
+     "time": "18:06.092",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "vattu2223",
+     "car": "BMW 128ti '20",
+     "position": 4,
+     "time": "18:40.116",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "justanoobperson",
+    "time": "2:38.376",
+    "lap": 1
+   }
+  },
+  {
+   "title": "Group 6 · Pick 3 · Race 2: Tsukuba",
+   "slug": "s11-g6-p3-r2-tsukuba",
+   "date": "2026-11-14",
+   "group": "g6",
+   "race_no": 2,
+   "pick": 3,
+   "venue": "tsukuba",
+   "image": "s11-g6-p3-r2-tsukuba",
+   "type": "Circuit · 12 laps",
+   "weather": "Clear and dry",
+   "seed": 95657959,
+   "track": "Tsukuba Circuit, Japan · 2.045 km",
+   "results": [
+    {
+     "player": "khalish_d",
+     "car": "Hennessey Mustang GT HPE750 '15",
+     "position": 1,
+     "time": "13:14.879",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "justanoobperson",
+     "car": "BMW M3 CS (F80) '18",
+     "position": 2,
+     "time": "13:30.521",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "roberthloga",
+     "car": "Maserati GranCabrio \"Sand Job\" '11",
+     "position": 3,
+     "time": "14:18.342",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "vattu2223",
+     "car": "BMW 128ti '20",
+     "position": 4,
+     "time": "13:29.458",
+     "dnf": false,
+     "points": 4,
+     "laps": 11,
+     "gap": "+1 lap"
+    }
+   ],
+   "fastest_lap": {
+    "player": "justanoobperson",
+    "time": "1:00.614",
+    "lap": 4
+   }
+  },
+  {
+   "title": "Group 6 · Pick 3 · Race 3: Monaco",
+   "slug": "s11-g6-p3-r3-monaco",
+   "date": "2026-11-14",
+   "group": "g6",
+   "race_no": 3,
+   "pick": 3,
+   "venue": "monaco",
+   "image": "s11-g6-p3-r3-monaco",
+   "type": "Street circuit · 9 laps",
+   "weather": "Heavy fog",
+   "seed": 99655478,
+   "track": "Circuit de Monaco, Monaco · 3.337 km",
+   "results": [
+    {
+     "player": "khalish_d",
+     "car": "Hennessey Mustang GT HPE750 '15",
+     "position": 1,
+     "time": "20:41.494",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "justanoobperson",
+     "car": "BMW M3 CS (F80) '18",
+     "position": 2,
+     "time": "20:46.706",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "roberthloga",
+     "car": "Maserati GranCabrio \"Sand Job\" '11",
+     "position": 3,
+     "time": "22:06.193",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "vattu2223",
+     "car": "BMW 128ti '20",
+     "position": 4,
+     "time": "20:48.547",
+     "dnf": false,
+     "points": 4,
+     "laps": 8,
+     "gap": "+1 lap"
+    }
+   ],
+   "fastest_lap": {
+    "player": "khalish_d",
+    "time": "2:01.680",
+    "lap": 9
+   }
+  },
+  {
+   "title": "Group 6 · Pick 3 · Race 4: Macau",
+   "slug": "s11-g6-p3-r4-macau",
+   "date": "2026-11-14",
+   "group": "g6",
+   "race_no": 4,
+   "pick": 3,
+   "venue": "macau",
+   "image": "s11-g6-p3-r4-macau",
+   "type": "Street circuit · 5 laps",
+   "weather": "Dusk",
+   "seed": 44129583,
+   "track": "Guia Circuit, Macau, Macau · 6.120 km",
+   "results": [
+    {
+     "player": "khalish_d",
+     "car": "Hennessey Mustang GT HPE750 '15",
+     "position": 1,
+     "time": "13:08.787",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "justanoobperson",
+     "car": "BMW M3 CS (F80) '18",
+     "position": 2,
+     "time": "13:18.648",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "roberthloga",
+     "car": "Maserati GranCabrio \"Sand Job\" '11",
+     "position": 3,
+     "time": "15:08.670",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "vattu2223",
+     "car": "BMW 128ti '20",
+     "position": 4,
+     "time": "15:45.691",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "khalish_d",
+    "time": "2:35.037",
+    "lap": 5
+   }
   }
  ],
  "test_season": false,
@@ -5973,6 +6189,22 @@
    },
    "notarashi": {
     "name": "Corvette C7 Convertible '14",
+    "pick": 3
+   },
+   "khalish_d": {
+    "name": "Hennessey Mustang GT HPE750 '15",
+    "pick": 3
+   },
+   "justanoobperson": {
+    "name": "BMW M3 CS (F80) '18",
+    "pick": 3
+   },
+   "vattu2223": {
+    "name": "BMW 128ti '20",
+    "pick": 3
+   },
+   "roberthloga": {
+    "name": "Maserati GranCabrio \"Sand Job\" '11",
     "pick": 3
    }
   },
