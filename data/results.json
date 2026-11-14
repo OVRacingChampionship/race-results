@@ -101,20 +101,20 @@
    "note": "No Pick 4 car (DNS)"
   },
   "khalish_d": {
-   "name": "Hennessey Mustang GT HPE750 '15",
-   "pick": 3
+   "name": "Hennessey CTS-V V800 '10",
+   "pick": 4
   },
   "justanoobperson": {
-   "name": "BMW M3 CS (F80) '18",
-   "pick": 3
+   "name": "Viper SRT-10 Final Edition Conv. '10",
+   "pick": 4
   },
   "vattu2223": {
-   "name": "BMW 128ti '20",
-   "pick": 3
+   "name": "RTR Mustang Spec 5 10th Anniv. '20",
+   "pick": 4
   },
   "roberthloga": {
-   "name": "Maserati GranCabrio \"Sand Job\" '11",
-   "pick": 3
+   "name": "Porsche Panamera S E-Hybrid '14",
+   "pick": 4
   },
   "lacee5238": {
    "name": "Porsche 911 (996) 40 Jahre '03",
@@ -5869,6 +5869,220 @@
     "time": "2:35.037",
     "lap": 5
    }
+  },
+  {
+   "title": "Group 6 · Pick 4 · Race 1: Spa",
+   "slug": "s11-g6-p4-r1-spa",
+   "date": "2026-11-14",
+   "group": "g6",
+   "race_no": 1,
+   "pick": 4,
+   "venue": "spa",
+   "image": "s11-g6-p4-r1-spa",
+   "type": "Circuit · 4 laps",
+   "weather": "Heavy blizzard",
+   "seed": 76173697,
+   "track": "Circuit de Spa-Francorchamps, Belgium · 7.004 km",
+   "results": [
+    {
+     "player": "justanoobperson",
+     "car": "Viper SRT-10 Final Edition Conv. '10",
+     "position": 1,
+     "time": "16:28.424",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "khalish_d",
+     "car": "Hennessey CTS-V V800 '10",
+     "position": 2,
+     "time": "16:43.030",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "vattu2223",
+     "car": "RTR Mustang Spec 5 10th Anniv. '20",
+     "position": 3,
+     "time": "16:50.720",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "roberthloga",
+     "car": "Porsche Panamera S E-Hybrid '14",
+     "position": 4,
+     "time": "17:58.120",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "justanoobperson",
+    "time": "2:59.495",
+    "lap": 1
+   }
+  },
+  {
+   "title": "Group 6 · Pick 4 · Race 2: Sebring",
+   "slug": "s11-g6-p4-r2-sebring",
+   "date": "2026-11-14",
+   "group": "g6",
+   "race_no": 2,
+   "pick": 4,
+   "venue": "sebring",
+   "image": "s11-g6-p4-r2-sebring",
+   "type": "Circuit · 5 laps",
+   "weather": "Extreme heat",
+   "seed": 30627196,
+   "track": "Sebring International Raceway, USA · 6.019 km",
+   "results": [
+    {
+     "player": "vattu2223",
+     "car": "RTR Mustang Spec 5 10th Anniv. '20",
+     "position": 1,
+     "time": "12:57.166",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "khalish_d",
+     "car": "Hennessey CTS-V V800 '10",
+     "position": 2,
+     "time": "13:23.068",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "roberthloga",
+     "car": "Porsche Panamera S E-Hybrid '14",
+     "position": 3,
+     "time": "15:04.147",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "justanoobperson",
+     "car": "Viper SRT-10 Final Edition Conv. '10",
+     "position": null,
+     "time": "DNF",
+     "dnf": true,
+     "points": 0,
+     "dnf_reason": "gearbox failure",
+     "dnf_lap": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "vattu2223",
+    "time": "2:29.560",
+    "lap": 4
+   }
+  },
+  {
+   "title": "Group 6 · Pick 4 · Race 3: Long Beach",
+   "slug": "s11-g6-p4-r3-long-beach",
+   "date": "2026-11-14",
+   "group": "g6",
+   "race_no": 3,
+   "pick": 4,
+   "venue": "long_beach",
+   "image": "s11-g6-p4-r3-long-beach",
+   "type": "Street circuit · 9 laps",
+   "weather": "Drying track",
+   "seed": 29700325,
+   "track": "Long Beach Street Circuit, USA · 3.167 km",
+   "results": [
+    {
+     "player": "justanoobperson",
+     "car": "Viper SRT-10 Final Edition Conv. '10",
+     "position": 1,
+     "time": "15:24.298",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "vattu2223",
+     "car": "RTR Mustang Spec 5 10th Anniv. '20",
+     "position": 2,
+     "time": "15:49.769",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "khalish_d",
+     "car": "Hennessey CTS-V V800 '10",
+     "position": 3,
+     "time": "16:10.689",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "roberthloga",
+     "car": "Porsche Panamera S E-Hybrid '14",
+     "position": 4,
+     "time": "17:07.453",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "justanoobperson",
+    "time": "1:38.924",
+    "lap": 7
+   }
+  },
+  {
+   "title": "Group 6 · Pick 4 · Race 4: Monaco",
+   "slug": "s11-g6-p4-r4-monaco",
+   "date": "2026-11-14",
+   "group": "g6",
+   "race_no": 4,
+   "pick": 4,
+   "venue": "monaco",
+   "image": "s11-g6-p4-r4-monaco",
+   "type": "Street circuit · 9 laps",
+   "weather": "Clear and dry",
+   "seed": 20611324,
+   "track": "Circuit de Monaco, Monaco · 3.337 km",
+   "results": [
+    {
+     "player": "khalish_d",
+     "car": "Hennessey CTS-V V800 '10",
+     "position": 1,
+     "time": "18:56.284",
+     "dnf": false,
+     "points": 10
+    },
+    {
+     "player": "vattu2223",
+     "car": "RTR Mustang Spec 5 10th Anniv. '20",
+     "position": 2,
+     "time": "19:00.817",
+     "dnf": false,
+     "points": 8
+    },
+    {
+     "player": "justanoobperson",
+     "car": "Viper SRT-10 Final Edition Conv. '10",
+     "position": 3,
+     "time": "19:01.859",
+     "dnf": false,
+     "points": 6
+    },
+    {
+     "player": "roberthloga",
+     "car": "Porsche Panamera S E-Hybrid '14",
+     "position": 4,
+     "time": "20:43.686",
+     "dnf": false,
+     "points": 4
+    }
+   ],
+   "fastest_lap": {
+    "player": "vattu2223",
+    "time": "2:03.460",
+    "lap": 5
+   }
   }
  ],
  "test_season": false,
@@ -6291,6 +6505,22 @@
     "name": "No car",
     "pick": 4,
     "dns": true
+   },
+   "khalish_d": {
+    "name": "Hennessey CTS-V V800 '10",
+    "pick": 4
+   },
+   "justanoobperson": {
+    "name": "Viper SRT-10 Final Edition Conv. '10",
+    "pick": 4
+   },
+   "vattu2223": {
+    "name": "RTR Mustang Spec 5 10th Anniv. '20",
+    "pick": 4
+   },
+   "roberthloga": {
+    "name": "Porsche Panamera S E-Hybrid '14",
+    "pick": 4
    }
   }
  }
